@@ -24,9 +24,9 @@
     width: 100%;
     height: 155px;
   }
-  
+
   .small {
-      color: var(--color-white);
+    color: var(--color-white);
   }
 }
 

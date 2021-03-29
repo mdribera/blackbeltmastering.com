@@ -48,7 +48,7 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           # - {label: Content, name: content, widget: text}
-          - {label: Equipment, name: equipment, widget: list, fields: [{label: Heading, name: heading, widget: string}, {label: Bullets, name: bullets, widget: list, field: string}]}
+          - {label: Equipment, name: equipment, widget: list, fields: [{label: Heading, name: heading, widget: string}, {label: Bullets, name: bullets, widget: list}]}
           - label: Images
             name: images
             widget: list
