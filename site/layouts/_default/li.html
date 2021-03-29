@@ -1,6 +1,12 @@
-<a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-	<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib black mb0">Read more →</p>
-</a>
+<section class="content-container" id="{{ .Params.name }}-container" role="tabpanel">
+	<div class="anchor" id="{{ .Params.name }}"></div>
+	{{ if ne .Params.hideTitle true }}
+	<h2 class="text-center">{{ .Params.title }}</h2>
+	<hr>
+	{{ end }}
+
+	{{ $path := path.Join "tab" .Params.name }}
+	<div id="{{ .Params.name }}Content" class="sectionContent container-fluid">
+		{{ partial (path.Join "tab" .Params.name) . }}
+	</div>
+</section>

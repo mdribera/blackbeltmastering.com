@@ -1,14 +1,18 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
-  <body class="sans-serif">
-
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
-
-    {{ block "main" . }}{{ end }}
-
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
+  <body>
+    <div id="wrapper hash-tabs">
+      {{ block "header" . }}{{ partial "welcome" . }}{{end}}
+      <div class="page-wrapper center">
+        {{ block "main" . }}{{ end }}
+      </div>
+      {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+    </div>
+    <div class='background content-background'></div>
+    <script src="//code.jquery.com/jquery-3.6.0.min.js"></script>
+  	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="/app.js"></script>
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>

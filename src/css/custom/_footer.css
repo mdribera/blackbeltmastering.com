@@ -1,0 +1,12 @@
+footer {
+  position: fixed;
+  z-index: -1;
+  left: calc(50% - 400px);
+  bottom: 0;
+  width: 800px;
+  height: 80px;
+
+  .footer-credits {
+    margin-top: 20px;
+  }
+}
