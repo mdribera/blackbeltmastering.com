@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Frequently Asked Questions"
 name: faq
 colOne:
   title: General
@@ -38,8 +38,7 @@ colTwo:
         choosing to have lacquers cut elsewhere, we can provide the 24&mdash;bit side
         A and B digital files and required timing log.</li></ul>"
     - question: How much does lacquer cutting cost?
-      answer: '12" lacquers are $180/side and 7" lacquers are $100/side. Please see the
-        RATES page for more details. '
+      answer: 'Please contact us for current rates. '
     - question: How long can each side of my record be?
       answer: While CDs can hold over 70 minutes of material, this is essentially impossible
         for a single 12" record. There's only so much physical space to pack the grooves.
@@ -67,45 +66,36 @@ colTwo:
         manufacturing process. It's usually an abbreviation of your record label or band
         name along with a number (i.e. RHR-009 or SDRE0217).
     - question: I’ve never released a vinyl record before, what do I need to know?
-      answer: "<ul><li>First, select a record pressing plant to press your records and
-        submit an order with them. A pressing plant will need to electroplate the master
-        lacquers to create metal stampers, and will then use the stampers in the manufacturing
-        of your finished records. Let the plant know that you are providing your own lacquers
-        (from me). I should not be cutting your master lacquers until you have a confirmed
-        order set with a pressing plant. The plant needs to be expecting lacquers from
-        me. If a pressing plant receives lacquers that are not accounted for, they will
-        not get processed.</li><li>Second, schedule time to have a reference acetate cut.
-        An acetate will allow you to listen to and evaluate your record on a home turntable,
-        to potentially catch any problems or things you'd like changed before master lacquers
-        are cut. We highly recommend getting an acetate, as this is the perfect time to
-        attend a cutting session and see the process first-hand. Checking the sound at
-        every stage of the process is paramount and prevents potential delays and frustration.
-        (See FAQ about acetate evaluation below.)</li><li>Third, book a session to have
-        master lacquers cut. Sessions to cut master lacquers are not attended. One lacquer
-        is needed for each side of a record. A single album needs 2 lacquers created,
-        a double LP would need 4, etc. Let me know where the project is being pressed,
-        and once the masters are cut I’ll express ship the lacquers directly to it or
-        the corresponding plating facility.</li><li>Finally, A few weeks after everything
-        is sent to the plant you'll receive test pressings of your record. These are a
-        small batch of finished records. Most plants require approval of test presses
-        before manufacturing the bulk of your order. Once you approve the test presses
-        the plant will complete the rest of your order.</li></ul>"
+      answer: "<ul><li>Select a record pressing plant in the US to press your records
+        and submit an order with them. Let the plant know that you are providing your
+        own lacquers (from me). I should not be cutting your master lacquers until you
+        have a confirmed order set with a pressing plant. The plant needs to be expecting
+        lacquers from me. If a pressing plant receives lacquers that are not accounted
+        for, they will not get processed.</li><li>Book a session to have master lacquers
+        cut. Sessions to cut master lacquers are not attended. One lacquer is needed for
+        each side of a record. A single album needs 2 lacquers created, a double LP would
+        need 4, etc. Let me know where the project is being pressed, and once the masters
+        are cut I’ll express ship the lacquers directly to it or the corresponding plating
+        facility.</li><li>Finally, A few weeks after everything is sent to the plant you'll
+        receive test pressings of your record. These are a small batch of finished records.
+        Most plants require approval of test presses before manufacturing the bulk of
+        your order. Once you approve the test presses the plant will complete the rest
+        of your order.</li></ul>"
     - question: How should I evaluate an acetate, is it like a test pressing?
       answer: Acetates are more than double the weight of a test pressing and are cut
-        on aluminium discs that are coated with nitrocellulose lacquer with a finish coat
-        of acetate for curing; they are not made of vinyl like a test pressing. If your
-        acetate sounds like a good vinyl translation then it can be approved.<br/><br/>Please
-        note, if your record player is inexpensively made or has a low torque motor the
-        acetate may play back inconsistently or with warble; this is a turntable issue,
-        not a problem with the acetate or overall cut. Some things to consider when evaluating
-        an acetate at home:<br/><br/><ul><li>Handle your acetate by the edges only. Avoid
-        touching the surface where the grooves have been cut.</li><li>If your turntable
-        has difficulty playing your acetate, adjust your tonearm's counterweight or stylus
-        force; a worn or damaged stylus can mar the grooves or distort the sound of the
-        acetate.</li><li>Your acetate is for reference only. Acetates are a softer material
-        than vinyl and will only last a few plays at maximum fidelity before getting noisy.
-        Use it to evaluate the sound of the cut on one or two trusted playback systems
-        before it begins to degrade.</li></ul>
+        on aluminium discs that are coated with nitrocellulose lacquer; they are not made
+        of vinyl like a test pressing. If your acetate sounds like a good vinyl translation
+        then it can be approved.<br/><br/>Please note, if your record player is inexpensively
+        made or has a low torque motor the acetate may play back inconsistently or with
+        warble; this is a turntable issue, not a problem with the acetate or overall cut.
+        Some things to consider when evaluating an acetate at home:<br/><br/><ul><li>Handle
+        your acetate by the edges only. Avoid touching the surface where the grooves have
+        been cut.</li><li>If your turntable has difficulty playing your acetate, adjust
+        your tonearm's counterweight or stylus force; a worn or damaged stylus can mar
+        the grooves or distort the sound of the acetate.</li><li>Your acetate is for reference
+        only. Acetates are a softer material than vinyl and will only last a few plays
+        at maximum fidelity before getting noisy. Use it to evaluate the sound of the
+        cut on one or two trusted playback systems before it begins to degrade.</li></ul>
     - question: How should I evaluate test pressings?
       answer: "<ul><li>First off, it's important to note that test pressings are not always
         perfect. Still, in order to properly evaluate them you should be confident that
@@ -153,12 +143,6 @@ colTwo:
         of making vinyl records is not quick and all stages leading up to the pressing
         happen in real time with little to no automation. Great sounding vinyl is worth
         the extra time!</li></ul>"
-    - question: Who do you recommend for pressing?
-      answer: <a href='https://www.gottagrooverecords.com/'><b>Gotta Groove Records</b></a>
-        - High quality art printing and pressing for 7" records as well as standard and
-        180g 12" records.<br/><a href='http://www.rainborecords.com/vinyl.htm'><b>Rainbo
-        Records</b></a> and <br/><a href='http://www.erikarecords.com/10in%20Vinyl%20Record%20and%20Jacket.pdf'><b>Erika
-        Records</b></a> - Both plants press 10" records and picture records.<br/>
     - question: Can you cut lacquers at half-speed or cut audio in to the lock groove
         at the end of a record?
       answer: Yes, we can do both. Our Neumann lathe is equipped with the most advanced
@@ -167,5 +151,6 @@ colTwo:
         with full bass. Cutting an endless loop of audio into the lock groove of a record
         is also possible, the duration of the loop should be exactly 1.8 seconds at 33
         1/3 RPM and 1.33 at 45 RPM.
+
 
 ---

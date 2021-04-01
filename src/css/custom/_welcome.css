@@ -89,11 +89,6 @@
   background-color: var(--color-black);
   transition: color 0.4s, background-color 0.4s;
   -webkit-transition: -webkit-filter 0.4s linear;
-
-  &:hover {
-    // -webkit-transition : -webkit-filter .4s linear;
-    // -webkit-filter: blur(0px);
-  }
 }
 
 header {
