@@ -1,24 +1,69 @@
-{{ define "main" }}
+<div class="row">
+  <div
+    class="panel-group col-xs-12 col-sm-6"
+    id="frequently-asked-general-questions"
+    role="tablist"
+    aria-multiselectable="true"
+  >
+    <h3>{{ .Params.colOne.title }}</h3>
+    {{ range $index, $faq := .Params.colOne.faq }}
+    <div class="panel">
+      <div class="panel-heading frequent-question">
+        <h4 class="panel-title">
+          <a
+            class="question collapsed"
+            data-toggle="collapse"
+            href="#general-answer-{{ $index }}"
+            aria-expanded="false"
+            data-parent="#frequently-asked-general-questions"
+            aria-controls="general-answer-{{ $index }}"
+          >
+            <span class="glyphicon glyphicon-chevron-down"></span>{{ $faq.question | safeHTML }}
+          </a>
+        </h4>
+      </div>
+      <div
+        class="panel-collapse collapse answer"
+        role="tabpanel"
+        id="general-answer-{{ $index }}"
+      >
+        <p>{{ $faq.answer | safeHTML }}</p>
+      </div>
+    </div>
+	  {{ end }}
+  </div>
 
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
-
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
-
-		{{ .Content }}
-
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
-		</div>
-
-		{{ partial "contact-form" . }}
-
-	</div>
+  <div
+    class="panel-group col-xs-12 col-sm-6"
+    id="frequently-asked-vinyl-questions"
+    role="tablist"
+    aria-multiselectable="true"
+  >
+    <h3>{{ .Params.colTwo.title }}</h3>
+	  {{ range $index, $faq := .Params.colTwo.faq }}
+    <div class="panel">
+      <div class="panel-heading frequent-question">
+        <h4 class="panel-title">
+          <a
+            class="question collapsed"
+            data-toggle="collapse"
+            href="#vinyl-answer-{{ $index }}"
+            aria-expanded="false"
+            data-parent="#frequently-asked-vinyl-questions"
+            aria-controls="vinyl-answer-{{ $index }}"
+          >
+            <span class="glyphicon glyphicon-chevron-down"></span>{{ $faq.question | safeHTML }}
+          </a>
+        </h4>
+      </div>
+      <div
+        class="panel-collapse collapse answer"
+        role="tabpanel"
+        id="vinyl-answer-{{ $index }}"
+      >
+        <p>{{ $faq.answer | safeHTML }}</p>
+      </div>
+    </div>
+	  {{ end }}
+  </div>
 </div>
-
-{{ end }}

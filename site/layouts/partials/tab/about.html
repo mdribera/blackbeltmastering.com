@@ -1,2 +1,2 @@
-<img class="half-column pull-right" src="{{ .Params.image }}" alt="" />
-<div class="indent">{{ .Content }}</div>
+<img class="half-column padding-left pull-right" src="{{ .Params.image }}" alt="" />
+<div class="indent">{{ .Content | safeHTML }}</div>

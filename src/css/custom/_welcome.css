@@ -63,7 +63,7 @@
 
     .index-7 .art {
       background-color: var(--color-black);
-      /* background-image: image-url("bbm_logo.jpeg"); */
+      background-image: url('/img/bbm_logo.jpeg');
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;

@@ -13,10 +13,10 @@ collections:
         name: welcome
         fields:
           - label: Albums
-            name: albums
+            name: welcome
             widget: list
-            fields:
-              - {label: Image, name: image, widget: image}
+            summary: '{{fields.image}}'
+            field: {label: Cover, name: image, widget: image}
       - file: "site/content/about/_index.md"
         label: About
         name: about

@@ -1,24 +1,20 @@
-{{ define "main" }}
-
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
-
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
-
-		{{ .Content }}
-
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
-		</div>
-
-		{{ partial "contact-form" . }}
-
-	</div>
+<div class="row">
+  <iframe
+    class="col-xs-12"
+    id="formIframe"
+    src="{{ .Params.iframe }}"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    height="1752px"
+    >Loading...</iframe
+  >
+  <div class="col-xs-12 text-center">
+    <h2>THANK YOU!</h2>
+    <hr />
+    <h3>Levi Seitz</h3>
+    <h4>Mastering Engineer</h4>
+    <p><a href="mailto:levi@blackbeltmastering.com">levi@blackbeltmastering.com</a></p>
+    <p><a href="tel:206-651-4765">(206) 651-4765</a></p>
+  </div>
 </div>
-
-{{ end }}

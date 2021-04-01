@@ -1,9 +1,12 @@
+@import "./custom/_mixins";
 @import "./custom/_colors";
 @import "./custom/_page";
-@import "./custom/_clients";
-// @import "./custom/_page";
-@import "./custom/_footer";
 @import "./custom/_welcome";
+@import "./custom/_footer";
+@import "./custom/_clients";
+@import "./custom/_liveonlacquer";
+@import "./custom/_services";
+@import "./custom/_faq";
 
 /* Modules */
 @import "./imports/_cms";

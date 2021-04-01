@@ -1,24 +1,30 @@
-{{ define "main" }}
-
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
-
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
-
-		{{ .Content }}
-
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
-		</div>
-
-		{{ partial "contact-form" . }}
-
+<div class="row">
+	<a class="col-xs-4 lol-album" href="{{ .Params.volumeOne.link }}">
+		<img src="{{ .Params.volumeOne.image }}" />
+		<div class="overlay"><span class="buy-album">Buy album</span></div>
+	</a>
+	<div class="col-xs-4">
+		<img src="{{ .Params.logo }}" />
 	</div>
+	<a class="col-xs-4 lol-album" href="{{ .Params.volumeTwo.link }}">
+		<img src="{{ .Params.volumeTwo.image }}" />
+		<div class="overlay"><span class="buy-album">Buy album</span></div>
+	</a>
 </div>
 
-{{ end }}
+<div class="row">
+	<div class="col-xs-12 text-center">{{ .Content | safeHTML }}</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12 lol-gallery">
+		{{ range .Params.gallery }}
+		<div class="pic">
+			<img src="{{ . }}" alt="">
+			<!-- <a href="" data-lightbox="gallery"> -->
+			<!-- <%= image_tag "", :class => "fade-in-on-load", :onload => "this.style.opacity="1";", :data => { :src => "../_liveonlacquer/thumbnail/" + f } %> -->
+			<!-- </a> -->
+		</div>
+		{{ end }}
+	</div>
+</div>
