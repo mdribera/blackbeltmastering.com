@@ -22,7 +22,7 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          # - {label: Blurb, name: blurb, widget: string}
+          - {label: Blurb, name: blurb, widget: markdown}
       - file: "site/content/clients/_index.md"
         label: Clients
         name: clients
@@ -55,12 +55,6 @@ collections:
               - {label: Description, name: description, widget: string}
               - {label: Attribution, name: attribution, widget: string}
               - {label: Picture, name: picture, widget: image}
-      - file: "site/content/liveonlacquer/_index.md"
-        label: "Live on Lacquer"
-        name: liveonlacquer
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
       - file: "site/content/services/_index.md"
         label: Services
         name: services

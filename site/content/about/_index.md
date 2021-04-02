@@ -1,6 +1,9 @@
 ---
 title: "About Black Belt Mastering"
 name: about
+menu:
+  main:
+    weight: 1
 image: "img/Levi Mastering.jpg"
 ---
 

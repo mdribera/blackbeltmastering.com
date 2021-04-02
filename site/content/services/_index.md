@@ -1,6 +1,9 @@
 ---
 title: "Mastering Services"
 name: services
+menu:
+  main:
+    weight: 4
 paypal:
   link: https://www.paypal.com/cgi-bin/webscr?business=levi@blackbeltmastering.com&cmd=_xclick&currency_code=USD&amount=0&item_name=Mastering
   image: img/paypal.png

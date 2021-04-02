@@ -1,6 +1,9 @@
 ---
 title: Clients
 name: clients
+menu:
+  main:
+    weight: 2
 hideTitle: true
 clients:
  - artist: "Jeremy Enigk"

@@ -1,9 +1,6 @@
 <nav class="tab-nav navwrapper" role="tablist">
-	<a href="#about" id="about-nav" aria-selected='false' aria-controls='#about' role="tab">about</a>
-	<a href="#clients" id="clients-nav" aria-selected='false' aria-controls='#clients' role="tab">clients</a>
-	<a href="#studio" id="studio-nav" aria-selected='false' aria-controls='#studio' role="tab">studio</a>
-	<a href="#liveonlacquer" id="liveonlacquer-nav" aria-selected='false' aria-controls='#liveonlacquer' role="tab">live on lacquer</a>
-	<a href="#services" id="services-nav" aria-selected='false' aria-controls='#services' role="tab">services</a>
-	<a href="#faq" id="faq-nav" aria-selected='false' aria-controls='#faq' role="tab">faq</a>
-	<a href="#contact" id="contact-nav" aria-selected='false' aria-controls='#contact' role="tab">contact</a>
+	{{range site.Menus.main }}
+	{{ $name := .Page.Params.name }}
+	<a href="#{{ $name }}" id="{{ $name }}-nav" aria-selected='false' aria-controls='#{{ $name }}' role="tab">{{ $name }}</a>
+	{{ end }}
 </nav>

@@ -45,9 +45,6 @@ $(document).ready(function () {
 
     $siteTitle.on("click", (e) => {
       e.stopPropagation();
-      if (!$albumData.length) {
-        loadAlbumData();
-      }
       toggleWelcome();
     });
 
@@ -76,6 +73,11 @@ $(document).ready(function () {
   }
 
   function toggleWelcome() {
+    if (!$albumData.length) {
+      console.log('no albums!')
+      loadAlbumData();
+    }
+
     if ($welcome.hasClass("down")) {
       $welcome.removeClass("down");
       $header.removeClass("down");

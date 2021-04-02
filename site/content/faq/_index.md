@@ -1,6 +1,9 @@
 ---
 title: "Frequently Asked Questions"
 name: faq
+menu:
+  main:
+    weight: 5
 colOne:
   title: General
   faq:

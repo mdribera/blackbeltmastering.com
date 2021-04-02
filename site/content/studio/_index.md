@@ -1,6 +1,9 @@
 ---
 title: "The Mastering Studio"
 name: studio
+menu:
+  main:
+    weight: 3
 equipment:
  - heading: Transports/Playback
    bullets:
