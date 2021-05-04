@@ -1,23 +1,36 @@
 ---
 title: Black Belt Mastering
 welcome:
- - img/01_Jeremy_Enigk_ROTFQ.jpg
- - img/02_Joker_OST.jpg
- - img/03_Metallica.jpg
- - img/03_The_Donnas.jpg
- - img/04_Green_Day.png
- - img/04_Pearl_Jam_Lets_Play_Two.jpg
- - img/04_SYML.jpeg
- - img/05_MXPX.jpg
- - img/06_Diplo.jpg
- - img/06_Game_Of_Thrones_Season_8.jpg
- - img/06_The_Fire_Theft.jpg
- - img/07_August_Burns_Red_Guardians.jpg
- - img/07_Julian_Lennon.jpg
- - img/08_Buddy_Guy.jpg
- - img/08_Fanfarlo.jpg
- - img/09_Rocky_Votolato_Live_At_Black_Belt.jpg
- - img/09_Stereo_Creeps.jpg
- - img/10_Deep_Sea_Diver.jpg
-
+  - img/01_Jeremy_Enigk_ROTFQ.jpg
+  - img/02_Joker_OST.jpg
+  - img/03_Metallica.jpg
+  - img/03_The_Donnas.jpg
+  - img/04_Green_Day.png
+  - img/04_Pearl_Jam_Lets_Play_Two.jpg
+  - img/04_SYML.jpeg
+  - img/05_MXPX.jpg
+  - img/06_Diplo.jpg
+  - img/06_Game_Of_Thrones_Season_8.jpg
+  - img/06_The_Fire_Theft.jpg
+  - img/07_August_Burns_Red_Guardians.jpg
+  - img/07_Julian_Lennon.jpg
+  - img/08_Buddy_Guy.jpg
+  - img/08_Fanfarlo.jpg
+  - img/09_Stereo_Creeps.jpg
+  - img/10_Deep_Sea_Diver.jpg
+  - img/16_pearl-jam-vault8.jpg
+  - img/10_mandy-moore.jpeg
+  - img/11_jonathan-davis.jpg
+  - img/11_rocky-votolato-hospital-handshakes.jpg
+  - img/12_copeland.jpg
+  - img/12_wanz-warren-g.jpg
+  - img/13_sloucher-be-true.jpg
+  - img/16_the-germs.jpg
+  - img/17_jeremy-enigk-okbear.jpg
+  - img/22_jen-wood.jpg
+  - img/26_pearl-jam-vault-7.jpg
+  - img/31_pearl-jam.jpg
+  - img/36_alejandro-escovedo.jpg
+  - img/40_norma-jean.jpg
+  - img/43_starset.png
 ---
