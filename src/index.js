@@ -1,11 +1,9 @@
+/* eslint-disable no-undef */
 // JS Goes here - ES6 supported
 
 import "./css/main.css";
 
-// Say hello
-// console.log("🦊 Hello! Edit me in src/index.js");
-
-$(document).ready(function () {
+$(document).ready(function() {
   let gridIndex = 0;
   let rotateInterval;
   let enteranceInterval;
@@ -21,7 +19,6 @@ $(document).ready(function () {
     return a;
   };
 
-  let $albumGrid = [];
   const $albumData = [];
   const random = shuffle([0, 1, 2, 3, 4, 5, 6, 8, 9]);
 
@@ -48,19 +45,19 @@ $(document).ready(function () {
       toggleWelcome();
     });
 
-    $clientTabs.each(function () {
+    $clientTabs.each(function() {
       const item = $(this);
-      item.on("click", function () {
-        const clickedTab = $(this).data('content')
-        $clientTabs.each(function () {
+      item.on("click", function() {
+        const clickedTab = $(this).data("content");
+        $clientTabs.each(function() {
           const tab = $(this);
-          if (tab.data('content') === clickedTab) {
+          if (tab.data("content") === clickedTab) {
             tab.addClass("active");
           } else if (tab.hasClass("active")) {
             tab.removeClass("active");
           }
         });
-        $clientContent.each(function () {
+        $clientContent.each(function() {
           const content = $(this);
           if (content.hasClass(clickedTab)) {
             content.addClass("active");
@@ -74,7 +71,6 @@ $(document).ready(function () {
 
   function toggleWelcome() {
     if (!$albumData.length) {
-      console.log('no albums!')
       loadAlbumData();
     }
 
@@ -122,9 +118,8 @@ $(document).ready(function () {
 
   function loadAlbumData() {
     var imgs = $(".album-data img");
-    $albumGrid = $("#album-grid");
 
-    imgs.each(function (i) {
+    imgs.each(function(i) {
       var $img = $(this);
       var source = $img.data("src");
       this.src = source;
@@ -139,7 +134,7 @@ $(document).ready(function () {
 
   function imageLoaded() {
     $albumData.push(this);
-    if ($albumData.length == 9) setupInitialAlbums();
+    if ($albumData.length === 9) setupInitialAlbums();
   }
 
   function setupInitialAlbums() {
@@ -166,7 +161,7 @@ $(document).ready(function () {
     albums.removeClass("down");
 
     var i = 0;
-    enteranceInterval = setInterval(function () {
+    enteranceInterval = setInterval(function() {
       var $item = $(albums[i]);
 
       $item.addClass("down");
@@ -180,10 +175,9 @@ $(document).ready(function () {
   }
 
   function attachRotationInterval() {
-    var i = 0,
-      newAlbum;
+    var newAlbum;
 
-    rotateInterval = setInterval(function () {
+    rotateInterval = setInterval(function() {
       newAlbum = getNextAlbum();
       newAlbum.css({ display: "none" });
 
@@ -196,7 +190,7 @@ $(document).ready(function () {
     var oldAlbum = $index.find("img")[0];
     var newAlbum = $index.find("img")[1];
 
-    $(oldAlbum).fadeOut(500, function () {
+    $(oldAlbum).fadeOut(500, function() {
       $(oldAlbum).remove();
       $(newAlbum).fadeIn(500);
     });
@@ -210,7 +204,7 @@ $(document).ready(function () {
     return $index;
   }
 
-  if (window.location.hash == "#" || window.location.hash == "") {
+  if (window.location.hash === "#" || window.location.hash === "") {
     loadAlbumData();
   }
 

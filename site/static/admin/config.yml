@@ -20,58 +20,89 @@ collections:
         label: About
         name: about
         fields:
+          - {label: Name, name: name, widget: string}
           - {label: Title, name: title, widget: string}
+          # - {label: Hidden?, name: hidden, widget: boolean, default: false}
           - {label: Image, name: image, widget: image}
           - {label: Blurb, name: blurb, widget: markdown}
       - file: "site/content/clients/_index.md"
         label: Clients
         name: clients
         fields:
+          - {label: Name, name: name, widget: string}
+          - {label: Title, name: title, widget: string}
+          # - {label: Hidden?, name: hidden, widget: boolean, default: false}
           - label: Clients
             name: clients
             widget: list
             fields:
               - {label: Artist, name: artist, widget: string}
               - {label: Album, name: image, widget: image}
-          - label: Testimonials
-            name: testimonials
-            widget: list
-            fields:
-              - {label: Quote, name: quote, widget: string}
-              - {label: Artist, name: artist, widget: string}
-              - {label: Picture, name: picture, widget: image}
-              - {label: Attribution, name: attribution, widget: string}
       - file: "site/content/studio/_index.md"
         label: Studio
         name: studio
         fields:
+          - {label: Name, name: name, widget: string}          # - {label: Content, name: content, widget: text}
           - {label: Title, name: title, widget: string}
-          # - {label: Content, name: content, widget: text}
+          # - {label: Hidden?, name: hidden, widget: boolean, default: false}
           - {label: Equipment, name: equipment, widget: list, fields: [{label: Heading, name: heading, widget: string}, {label: Bullets, name: bullets, widget: list}]}
           - label: Images
             name: images
             widget: list
             fields:
-              - {label: Description, name: description, widget: string}
-              - {label: Attribution, name: attribution, widget: string}
+              - {label: Description, name: description, required: false, widget: string}
+              - {label: Attribution, name: attribution, required: false, widget: string}
               - {label: Picture, name: picture, widget: image}
       - file: "site/content/services/_index.md"
         label: Services
         name: services
         fields:
+          - {label: Name, name: name, widget: string}
           - {label: Title, name: title, widget: string}
+          # - {label: Hidden?, name: hidden, widget: boolean, default: false}
           - {label: Image, name: image, widget: image}
       - file: "site/content/faq/_index.md"
         label: FAQ
         name: faq
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Title", name: "title", widget: "string"}
+          # - {label: Hidden?, name: hidden, widget: boolean, default: false}
+          - label: "ColumnOne"
+            name: "colOne"
+            widget: "object"
+            collapsed: true
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              # - {label: "Description", name: "description", widget: "string"}
+              - label: "Items"
+                name: "faq"
+                widget: "list"
+                fields:
+                  - {label: "Question", name: "question", widget: "markdown"}
+                  - {label: "Answer", name: "answer", widget: "markdown"}
+          - label: "ColumnTwo"
+            name: "colTwo"
+            widget: "object"
+            collapsed: true
+            summary: "{{fields.title}}"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              # - {label: "Description", name: "description", widget: "string"}
+              - label: "Items"
+                name: "faq"
+                widget: "list"
+                fields:
+                  - {label: "Question", name: "question", widget: "markdown"}
+                  - {label: "Answer", name: "answer", widget: "markdown"}
       - file: "site/content/contact/_index.md"
         label: Contact
         name: contact
         fields:
+          - {label: Name, name: name, widget: string}
           - {label: Title, name: title, widget: string}
+          # - {label: Hidden?, name: hidden, widget: boolean, default: false}
           - {label: Image, name: image, widget: image}
 
   # - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit

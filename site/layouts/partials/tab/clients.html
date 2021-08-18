@@ -1,32 +1,8 @@
-<div class="client-nav">
-  <a data-content="clients-list" class="col-xs-6 client-tab active" role="tab">clients</a>
-  <a data-content="testimonials-list" class="col-xs-6 client-tab" role="tab">testimonials</a>
-</div>
-
-<!-- featured clients -->
-<div class="row clients-list client-content active">
+<div class="row">
   {{ range .Params.clients }}
   <div class="col-xs-3 artwork">
     <img src="{{ .image }}" />
     <p class="small text-center">{{ .artist }}</p>
-  </div>
-  {{ end }}
-</div>
-
-<!-- testimonials -->
-<div class="testimonials-list client-content">
-  {{ range .Params.testimonials }}
-  <div class="row testimonial">
-    <div class="col-xs-3 album">
-      <img src="{{ .image }}" />
-      {{ with .attribution }}
-      <p class="small">Photo: {{ . }}</p>
-      {{ end }}
-    </div>
-    <div class="col-xs-9 centered-text">
-      <p class="text">&ldquo;{{ .quote }}&rdquo;</p>
-      <p class="artist">&mdash; {{ .artist }}</p>
-    </div>
   </div>
   {{ end }}
 </div>

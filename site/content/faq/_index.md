@@ -163,8 +163,4 @@ colTwo:
         audio into the lock groove of a record is also possible, the duration of
         the loop should be exactly 1.8 seconds at 33 1/3 RPM and 1.33 at 45 RPM.
 hidden: false
-colone:
-  title: asdf
-coltwo:
-  title: fdsa
 ---

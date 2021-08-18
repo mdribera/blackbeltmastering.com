@@ -1,26 +1,23 @@
-<div class='welcome-content down'>
-    <div class='background'></div>
-    <h1 id='site-title'>Black Belt Mastering</h1>
-  
-    <div class='album-data'>
-      {{ range .Params.welcome }}
-      <p>{{ . }}</p>
-      <img data-src="{{ . }}" />
-      {{ end }}
-    </div>
-  
-    <div id='album-grid'>
-      {{ range seq 0 9 }}
-      <div class='item index-{{ . }}'>
-        <div class='album'>
-          <div class='art'></div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  
-    <header class='down'>
-      {{ partial "nav" }}
-    </header>
+<div class="welcome-content down">
+  <div class="background"></div>
+  <h1 id="site-title">Black Belt Mastering</h1>
+
+  <div class="album-data">
+    {{ range .Params.welcome }}
+    <p>{{ . }}</p>
+    <img data-src="{{ . }}" />
+    {{ end }}
   </div>
-  
+
+  <div id="album-grid">
+    {{ range seq 0 9 }}
+    <div class="item index-{{ . }}">
+      <div class="album">
+        <div class="art"></div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
+  <header class="down">{{ partial "nav" }}</header>
+</div>

@@ -1,6 +1,8 @@
 <nav class="tab-nav navwrapper" role="tablist">
 	{{range site.Menus.main }}
+	{{ if not .Page.Params.hidden }}
 	{{ $name := .Page.Params.name }}
 	<a href="#{{ $name }}" id="{{ $name }}-nav" aria-selected='false' aria-controls='#{{ $name }}' role="tab">{{ $name }}</a>
+	{{ end }}
 	{{ end }}
 </nav>
