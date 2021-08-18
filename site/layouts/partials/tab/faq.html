@@ -18,7 +18,7 @@
             data-parent="#frequently-asked-general-questions"
             aria-controls="general-answer-{{ $index }}"
           >
-            <span class="glyphicon glyphicon-chevron-down"></span>{{ $faq.question | safeHTML }}
+            <span class="glyphicon glyphicon-chevron-down"></span>{{ $faq.question | markdownify }}
           </a>
         </h4>
       </div>
@@ -27,7 +27,7 @@
         role="tabpanel"
         id="general-answer-{{ $index }}"
       >
-        <p>{{ $faq.answer | safeHTML }}</p>
+        <p>{{ $faq.answer | markdownify }}</p>
       </div>
     </div>
 	  {{ end }}
@@ -52,7 +52,7 @@
             data-parent="#frequently-asked-vinyl-questions"
             aria-controls="vinyl-answer-{{ $index }}"
           >
-            <span class="glyphicon glyphicon-chevron-down"></span>{{ $faq.question | safeHTML }}
+            <span class="glyphicon glyphicon-chevron-down"></span>{{ $faq.question | markdownify }}
           </a>
         </h4>
       </div>
@@ -61,7 +61,7 @@
         role="tabpanel"
         id="vinyl-answer-{{ $index }}"
       >
-        <p>{{ $faq.answer | safeHTML }}</p>
+        <p>{{ $faq.answer | markdownify }}</p>
       </div>
     </div>
 	  {{ end }}
