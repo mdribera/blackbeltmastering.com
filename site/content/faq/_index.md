@@ -84,29 +84,19 @@ colTwo:
     - question: How much does lacquer cutting cost?
       answer: "Please contact us for current rates. "
     - question: How long can each side of my record be?
-      answer: While CDs can hold over 70 minutes of material, this is essentially
+      answer: >-
+        While CDs can hold over 70 minutes of material, this is essentially
         impossible for a single 12" record. There's only so much physical space
         to pack the grooves. As the length of a side goes up the loudness goes
         down because the grooves on the record have to be cut with less
         side-to-side movement (quieter) to fit more information in the allotted
-        space. Very long sides are possible, but not very loud.<br/><br/>Please
-        use the information below as a guideline for timing
-        sides:<br/><table><tr><td><b>12" (33 1/3 RPM)</b><br/><span
-        class='small'>Best &mdash; 18 minutes per side</span><br/><span
-        class='small'>OK &mdash; 20 minutes per side</span></td><td><b>12" (45
-        RPM)</b><br/><span class='small'>Best &mdash; 8 to 9 minutes per
-        side</span><br/><span class='small'>OK &mdash; 12 minutes per
-        side</span></td></tr><tr><td><b>10" (33 1/3 RPM)</b><br/><span
-        class='small'>Best &mdash; 8 to 9 minutes per side</span><br/><span
-        class='small'>OK &mdash; 13 minutes per side</span></td><td><b>10" (45
-        RPM)</b><br/><span class='small'>Best &mdash; 6 to 7 minutes per
-        side</span><br/><span class='small'>OK &mdash; 10 minutes per
-        side</span></td></tr><tr><td><b>7" (33 1/3 RPM)</b><br/><span
-        class='small'>Best &mdash; 6 minutes per side</span><br/><span
-        class='small'>Meh &mdash; 8 minutes per side</span></td><td><b>7" (45
-        RPM)</b><br/><span class='small'>Best &mdash; 3 minutes per
-        side</span><br/><span class='small'>OK &mdash; 5 minutes per
-        side</span></td></tr></table>
+        space. Very long sides are possible, but not very loud.
+
+
+        Please use the information below as a guideline for timing sides:
+
+
+        <table><tr><td><b>12" (33 1/3 RPM)</b><br/><span class='small'>Best &mdash; 18 minutes per side</span><br/><span class='small'>OK &mdash; 20 minutes per side</span></td><td><b>12" (45 RPM)</b><br/><span class='small'>Best &mdash; 8 to 9 minutes per side</span><br/><span class='small'>OK &mdash; 12 minutes per side</span></td></tr><tr><td><b>10" (33 1/3 RPM)</b><br/><span class='small'>Best &mdash; 8 to 9 minutes per side</span><br/><span class='small'>OK &mdash; 13 minutes per side</span></td><td><b>10" (45 RPM)</b><br/><span class='small'>Best &mdash; 6 to 7 minutes per side</span><br/><span class='small'>OK &mdash; 10 minutes per side</span></td></tr><tr><td><b>7" (33 1/3 RPM)</b><br/><span class='small'>Best &mdash; 6 minutes per side</span><br/><span class='small'>Meh &mdash; 8 minutes per side</span></td><td><b>7" (45 RPM)</b><br/><span class='small'>Best &mdash; 3 minutes per side</span><br/><span class='small'>OK &mdash; 5 minutes per side</span></td></tr></table>
     - question: What is a Matrix number, how do I get one?
       answer: Both myself and the pressing plant will ask you to provide what's known
         as a matrix number. The matrix (sometimes also called the 'catalog
