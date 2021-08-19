@@ -35,9 +35,12 @@ collections:
           - label: Clients
             name: clients
             widget: list
+            collapsed: true
             fields:
               - {label: Artist, name: artist, widget: string}
+              - {label: "Second Line", name: secondLine, required: false, widget: string}
               - {label: Album, name: image, widget: image}
+              - {label: Attribution, name: attribution, required: false, widget: string}
       - file: "site/content/studio/_index.md"
         label: Studio
         name: studio

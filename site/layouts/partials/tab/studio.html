@@ -1,20 +1,20 @@
-<div class="text-center">{{ .Content | safeHTML }}</div>
-
 <div class="row">
-  <div class="col-xs-8">
-	  <img src="{{ .Params.image }}" />
-  </div>
+	<div class="col-xs-12 text-center">{{ .Content | safeHTML }}</div>
 
-  <div class="col-xs-4">
-	  {{ range .Params.equipment }}
-	  <div class="equipment">
-		<h3>{{ .heading }}:</h3>
-		<ul>
-			{{ range .bullets }}
-			<li>{{ . }}</li>
-			{{ end }}
-		</ul>
-	  </div>
-	  {{ end }}
-  </div>
+	<div class="col-xs-8">
+		<img src="{{ .Params.image }}" />
+	</div>
+
+	<div class="col-xs-4">
+		{{ range .Params.equipment }}
+		<div class="equipment">
+			<h3>{{ .heading }}:</h3>
+			<ul>
+				{{ range .bullets }}
+				<li>{{ . }}</li>
+				{{ end }}
+			</ul>
+		</div>
+		{{ end }}
+	</div>
 </div>

@@ -1,19 +1,16 @@
-import React from "react";
 import CMS from "netlify-cms-app";
 
-// Import main site styles as a string to inject into the CMS preview pane
-import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../css/main.css";
+import { AboutPreview } from "./cms-preview-templates/about";
+import { FAQPreview } from "./cms-preview-templates/faq";
+import { ClientsPreview } from "./cms-preview-templates/clients";
 
-import HomePreview from "./cms-preview-templates/home";
-import PagePreview from "./cms-preview-templates/page";
-import ProductsPreview from "./cms-preview-templates/products";
-import ValuesPreview from "./cms-preview-templates/values";
-import ContactPreview from "./cms-preview-templates/contact";
+CMS.registerPreviewStyle(
+  "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css"
+);
+CMS.registerPreviewStyle("/main.css");
 
-CMS.registerPreviewStyle(styles, { raw: true });
-CMS.registerPreviewTemplate("home", HomePreview);
-CMS.registerPreviewTemplate("page", PagePreview);
-CMS.registerPreviewTemplate("products", ProductsPreview);
-CMS.registerPreviewTemplate("values", ValuesPreview);
-CMS.registerPreviewTemplate("contact", ContactPreview);
+CMS.registerPreviewTemplate("about", AboutPreview);
+CMS.registerPreviewTemplate("faq", FAQPreview);
+CMS.registerPreviewTemplate("clients", ClientsPreview);
+
 CMS.init();

@@ -1,8 +1,12 @@
 <div class="row">
-  {{ range .Params.clients }}
-  <div class="col-xs-3 artwork">
-    <img src="{{ .image }}" />
-    <p class="small text-center">{{ .artist }}</p>
+  <div class="col-xs-12 flex-rows">
+    {{ range .Params.clients }}
+    <div class="artwork text-center">
+      <div class="cover"><img src="{{ .image }}" /></div>
+      <p class="artist">{{ .artist }}</p>
+      <p class="small second-line">{{ .secondLine }}</p>
+      <p class="small attribution">{{ .attribution }}</p>
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
 </div>
