@@ -24,12 +24,17 @@
     }
   }
 
-  .artist {
-    color: var(--color-white);
+  p {
     margin: 0;
   }
 
+  .artist {
+    color: var(--color-white);
+  }
+
   .attribution {
+    color: var(--color-white);
+    // font-weight: 600;
     // text-transform: uppercase;
     
     // &:empty:before {
