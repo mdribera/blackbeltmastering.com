@@ -1,137 +1,145 @@
 ---
-title: Clients
 name: clients
+title: Clients
 hideTitle: true
 menu:
   main:
     weight: 2
 clients:
- - artist: "Jeremy Enigk"
-   image: "img/01_Jeremy_Enigk_ROTFQ.jpg"
- - artist: Joker OST
-   image: "img/02_Joker_OST.jpg"
- - artist: "Metallica"
-   image: "img/03_Metallica.jpg"
- - artist: "The Donnas"
-   image: "img/03_The_Donnas.jpg"
- - artist: "Green Day"
-   image: "img/04_Green_Day.png"
- - artist: "Pearl Jam - Lets Play Two"
-   image: "img/04_Pearl_Jam_Lets_Play_Two.jpg"
- - artist: "SYML"
-   image: "img/04_SYML.jpeg"
- - artist: "MXPX"
-   image: "img/05_MXPX.jpg"
- - artist: "Diplo"
-   image: "img/06_Diplo.jpg"
- - artist: "Game Of Thrones Season 8"
-   image: "img/06_Game_Of_Thrones_Season_8.jpg"
- - artist: "The Fire Theft"
-   image: "img/06_The_Fire_Theft.jpg"
- - artist: "August Burns Red - Guardians"
-   image: "img/07_August_Burns_Red_Guardians.jpg"
- - artist: "Julian Lennon"
-   image: "img/07_Julian_Lennon.jpg"
- - artist: "Buddy Guy"
-   image: "img/08_Buddy_Guy.jpg"
- - artist: "Fanfarlo"
-   image: "img/08_Fanfarlo.jpg"
- - artist: "Rocky Votolato - Live At Black Belt"
-   image: "img/09_Rocky_Votolato_Live_At_Black_Belt.jpg"
- - artist: "Stereo Creeps - 2"
-   image: "img/09_Stereo_Creeps.jpg"
- - artist: "Deep Sea Diver"
-   image: "img/10_deep-sea-diver.jpg"
- - artist: "Mandy Moore"
-   image: "img/10_mandy-moore.jpeg"
- - artist: "Jeff Ament"
-   image: "img/11_jeff-ament.jpg"
- - artist: "Jonathan Davis"
-   image: "img/11_jonathan-davis.jpg"
- - artist: "Rocky Votolato"
-   image: "img/11_rocky-votolato-hospital-handshakes.jpg"
- - artist: "Copeland"
-   image: "img/12_copeland.jpg"
- - artist: "Wanz : Warren G"
-   image: "img/12_wanz-warren-g.jpg"
- - artist: "SLOUCHER"
-   image: "img/13_sloucher-be-true.jpg"
- - artist: "Super Bomberman R"
-   image: "img/14_super-bomberman-r.jpg"
- - artist: "Onry Ozzborn"
-   image: "img/15_onry-ozzborn.jpg"
- - artist: "Pearl Jam"
-   image: "img/16_pearl-jam-vault8.jpg"
- - artist: "The Germs"
-   image: "img/16_the-germs.jpg"
- - artist: "Jeremy Enigk"
-   image: "img/17_jeremy-enigk-okbear.jpg"
- - artist: "Jeremy Enigk"
-   image: "img/17_jeremy-enigk-rarities.jpg"
- - artist: "Devin Townsend"
-   image: "img/18_devin-townsend.jpg"
- - artist: "Shannon Stephens"
-   image: "img/18_shannon-stephens.jpg"
- - artist: "Mother Love Bone"
-   image: "img/19_mother-love-bone-1.jpg"
- - artist: "Story Of The Year"
-   image: "img/20_story-of-the-year.jpg"
- - artist: "My Goodness"
-   image: "img/21_my-goodness.jpg"
- - artist: "Blood Drugs"
-   image: "img/22_blood-drugs.jpg"
- - artist: "Jen Wood"
-   image: "img/22_jen-wood.jpg"
- - artist: "Dead Poetic"
-   image: "img/23_dead-poetic.jpg"
- - artist: "Doyle"
-   image: "img/24_doyle.jpg"
- - artist: "Wage War"
-   image: "img/25_wage-war.jpg"
- - artist: "Jeremy Enigk"
-   image: "img/26_jeremy-enigk-ghosts.jpg"
- - artist: "Pearl Jam"
-   image: "img/26_pearl-jam-vault-7.jpg"
- - artist: "All Star Opera"
-   image: "img/27_all-star-opera.jpg"
- - artist: "Courtney Marie Andrews"
-   image: "img/27_courtney-marie-andrews.jpg"
- - artist: "IDYLLS"
-   image: "img/28_idylls.jpg"
- - artist: "Pedro The Lion"
-   image: "img/29_pedro-the-lion.jpg"
- - artist: "Iska Dhaaf"
-   image: "img/30_iska-dhaaf.jpg"
- - artist: "Pearl Jam"
-   image: "img/31_pearl-jam.jpg"
- - artist: "Jenn Champion (M)"
-   image: "img/32_jenn-champion-m-.jpg"
- - artist: "Josh Rouse"
-   image: "img/32_josh-rouse.jpg"
- - artist: "Lerin Herzer : Andrew Joslyn"
-   image: "img/33_lerin-herzer-andrew-joslyn.jpg"
- - artist: "American Opera"
-   image: "img/34_american-opera.jpg"
- - artist: "Set It Off"
-   image: "img/35_set-it-off.jpeg"
- - artist: "Alejandro Escovedo"
-   image: "img/36_alejandro-escovedo.jpg"
- - artist: "Pearl Jam"
-   image: "img/36_pearl-jam-easystreet.jpg"
- - artist: "DJ Wundrkut"
-   image: "img/37_dj-wundrkut.jpg"
- - artist: "Smokey Brights"
-   image: "img/39_smokey-brights.jpg"
- - artist: "Norma Jean"
-   image: "img/40_norma-jean.jpg"
- - artist: "Sisters"
-   image: "img/40_sisters-drink-champ.jpg"
- - artist: "Eat Your Heart Out"
-   image: "img/42_eat-your-heart-out.jpg"
- - artist: "Starset"
-   image: "img/43_starset.png"
- - artist: "August Burns Red"
-   image: "img/44_august-burns-red.jpg"
- - artist: "Subways On The Sun"
-   image: "img/45_subways-on-the-sun-2.jpg"
+  - artist: Jeremy Enigk
+    image: img/01_Jeremy_Enigk_ROTFQ.jpg
+    secondLine: Return of the Frog Queen
+    attribution: Vinyl
+  - artist: Joker
+    image: img/02_Joker_OST.jpg
+    secondLine: Original Soundtrack
+    attribution: Vinyl
+  - artist: Metallica
+    image: img/03_Metallica.jpg
+  - artist: The Donnas
+    image: img/03_The_Donnas.jpg
+  - artist: Green Day
+    image: img/04_Green_Day.png
+  - artist: Pearl Jam
+    image: img/04_Pearl_Jam_Lets_Play_Two.jpg
+    secondLine: Lets Play Two
+  - artist: SYML
+    image: img/04_SYML.jpeg
+  - artist: MXPX
+    image: img/05_MXPX.jpg
+  - artist: Diplo
+    image: img/06_Diplo.jpg
+  - artist: Game Of Thrones
+    image: img/06_Game_Of_Thrones_Season_8.jpg
+    secondLine: Season 8
+  - artist: The Fire Theft
+    image: img/06_The_Fire_Theft.jpg
+  - artist: August Burns Red
+    image: img/07_August_Burns_Red_Guardians.jpg
+    secondLine: Guardians
+  - artist: Julian Lennon
+    image: img/07_Julian_Lennon.jpg
+  - artist: Buddy Guy
+    image: img/08_Buddy_Guy.jpg
+  - artist: Fanfarlo
+    image: img/08_Fanfarlo.jpg
+  - artist: Rocky Votolato
+    image: img/09_Rocky_Votolato_Live_At_Black_Belt.jpg
+    secondLine: Live At Black Belt
+  - artist: Stereo Creeps
+    image: img/09_Stereo_Creeps.jpg
+  - artist: Deep Sea Diver
+    image: img/10_deep-sea-diver.jpg
+  - artist: Mandy Moore
+    image: img/10_mandy-moore.jpeg
+  - artist: Jeff Ament
+    image: img/11_jeff-ament.jpg
+  - artist: Jonathan Davis
+    image: img/11_jonathan-davis.jpg
+  - artist: Rocky Votolato
+    image: img/11_rocky-votolato-hospital-handshakes.jpg
+  - artist: Copeland
+    image: img/12_copeland.jpg
+  - artist: "Wanz : Warren G"
+    image: img/12_wanz-warren-g.jpg
+  - artist: SLOUCHER
+    image: img/13_sloucher-be-true.jpg
+  - artist: Super Bomberman R
+    image: img/14_super-bomberman-r.jpg
+  - artist: Onry Ozzborn
+    image: img/15_onry-ozzborn.jpg
+  - artist: Pearl Jam
+    image: img/16_pearl-jam-vault8.jpg
+  - artist: The Germs
+    image: img/16_the-germs.jpg
+  - artist: Jeremy Enigk
+    image: img/17_jeremy-enigk-okbear.jpg
+  - artist: Jeremy Enigk
+    image: img/17_jeremy-enigk-rarities.jpg
+  - artist: Devin Townsend
+    image: img/18_devin-townsend.jpg
+  - artist: Shannon Stephens
+    image: img/18_shannon-stephens.jpg
+  - artist: Mother Love Bone
+    image: img/19_mother-love-bone-1.jpg
+  - artist: Story Of The Year
+    image: img/20_story-of-the-year.jpg
+  - artist: My Goodness
+    image: img/21_my-goodness.jpg
+  - artist: Blood Drugs
+    image: img/22_blood-drugs.jpg
+  - artist: Jen Wood
+    image: img/22_jen-wood.jpg
+  - artist: Dead Poetic
+    image: img/23_dead-poetic.jpg
+  - artist: Doyle
+    image: img/24_doyle.jpg
+  - artist: Wage War
+    image: img/25_wage-war.jpg
+  - artist: Jeremy Enigk
+    image: img/26_jeremy-enigk-ghosts.jpg
+  - artist: Pearl Jam
+    image: img/26_pearl-jam-vault-7.jpg
+  - artist: All Star Opera
+    image: img/27_all-star-opera.jpg
+  - artist: Courtney Marie Andrews
+    image: img/27_courtney-marie-andrews.jpg
+  - artist: IDYLLS
+    image: img/28_idylls.jpg
+  - artist: Pedro The Lion
+    image: img/29_pedro-the-lion.jpg
+  - artist: Iska Dhaaf
+    image: img/30_iska-dhaaf.jpg
+  - artist: Pearl Jam
+    image: img/31_pearl-jam.jpg
+  - artist: Jenn Champion (M)
+    image: img/32_jenn-champion-m-.jpg
+  - artist: Josh Rouse
+    image: img/32_josh-rouse.jpg
+  - artist: "Lerin Herzer : Andrew Joslyn"
+    image: img/33_lerin-herzer-andrew-joslyn.jpg
+  - artist: American Opera
+    image: img/34_american-opera.jpg
+  - artist: Set It Off
+    image: img/35_set-it-off.jpeg
+  - artist: Alejandro Escovedo
+    image: img/36_alejandro-escovedo.jpg
+  - artist: Pearl Jam
+    image: img/36_pearl-jam-easystreet.jpg
+  - artist: DJ Wundrkut
+    image: img/37_dj-wundrkut.jpg
+  - artist: Smokey Brights
+    image: img/39_smokey-brights.jpg
+  - artist: Norma Jean
+    image: img/40_norma-jean.jpg
+  - artist: Sisters
+    image: img/40_sisters-drink-champ.jpg
+  - artist: Eat Your Heart Out
+    image: img/42_eat-your-heart-out.jpg
+  - artist: Starset
+    image: img/43_starset.png
+  - artist: August Burns Red
+    image: img/44_august-burns-red.jpg
+  - artist: Subways On The Sun
+    image: img/45_subways-on-the-sun-2.jpg
 ---
