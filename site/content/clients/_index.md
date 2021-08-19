@@ -16,13 +16,17 @@ clients:
     attribution: Vinyl
   - artist: Metallica
     image: img/03_Metallica.jpg
+    attribution: Vinyl & Digital
   - artist: The Donnas
     image: img/03_The_Donnas.jpg
+    attribution: Digital
   - artist: Green Day
     image: img/04_Green_Day.png
+    attribution: Digital
   - artist: Pearl Jam
     image: img/04_Pearl_Jam_Lets_Play_Two.jpg
     secondLine: Lets Play Two
+    attribution: Vinyl
   - artist: SYML
     image: img/04_SYML.jpeg
   - artist: MXPX
