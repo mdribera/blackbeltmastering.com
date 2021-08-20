@@ -29,15 +29,15 @@
   }
 
   .small {
-    font-size: 11px;
+    font-size: 12px;
+    color: var(--color-light-grey);
   }
 
-  .artist {
-    color: var(--color-white);
-  }
+  // .artist {
+  // }
 
-  .attribution {
-    color: var(--color-white);
+  // .attribution {
+    // color: var(--color-light-grey);
     // font-weight: 600;
     // text-transform: uppercase;
     
@@ -56,5 +56,5 @@
     //   width: 20px;  /* or 100px */
     //   border-bottom: 1px solid var(--color-medium-grey);
     // }
-  }
+  // }
 }

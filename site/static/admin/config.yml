@@ -45,17 +45,11 @@ collections:
         label: Studio
         name: studio
         fields:
-          - {label: Name, name: name, widget: string}          # - {label: Content, name: content, widget: text}
+          - {label: Name, name: name, widget: string}
           - {label: Title, name: title, widget: string}
-          # - {label: Hidden?, name: hidden, widget: boolean, default: false}
-          - {label: Equipment, name: equipment, widget: list, fields: [{label: Heading, name: heading, widget: string}, {label: Bullets, name: bullets, widget: list}]}
-          - label: Images
-            name: images
-            widget: list
-            fields:
-              - {label: Description, name: description, required: false, widget: string}
-              - {label: Attribution, name: attribution, required: false, widget: string}
-              - {label: Picture, name: picture, widget: image}
+          - {label: Image, name: image, widget: image}
+          - {label: Blurb, name: blurb, widget: markdown}
+          - {label: "EQ List", name: sidebar, widget: markdown}
       - file: "site/content/services/_index.md"
         label: Services
         name: services
