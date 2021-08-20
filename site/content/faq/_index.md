@@ -102,6 +102,7 @@ colTwo:
 
 
 
+
         12" (45 RPM)
 
 
@@ -109,6 +110,7 @@ colTwo:
 
 
         OK — 12 minutes per side
+
 
 
 
@@ -124,6 +126,7 @@ colTwo:
 
 
 
+
         10" (45 RPM
 
 
@@ -131,6 +134,7 @@ colTwo:
 
 
         OK — 10 minutes per side
+
 
 
 
@@ -146,13 +150,11 @@ colTwo:
 
 
 
+
         7" (45 RPM)
 
 
         Best — 3 minutes per side
-
-
-
 
         Sorta OK — 5 minutes per side
     - question: What is a Matrix number, how do I get one?
