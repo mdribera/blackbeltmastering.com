@@ -1,13 +1,14 @@
-<section class="content-container" id="{{ .Params.name }}-container" role="tabpanel">
-	<div class="anchor" id="{{ .Params.name }}"></div>
+{{ $pageName := trim .Page.Dir "/" }}
+<section class="content-container" id="{{ $pageName }}-container" role="tabpanel">
+	<div class="anchor" id="{{ $pageName }}"></div>
 	
 	{{ if ne .Params.hideTitle true }}
 	<h2 class="text-center">{{ .Params.title }}</h2>
 	<hr>
 	{{ end }}
 
-	{{ $path := path.Join "tab" .Params.name }}
-	<div id="{{ .Params.name }}Content" class="sectionContent container-fluid">
-		{{ partial (path.Join "tab" .Params.name) . }}
+	{{ $path := path.Join "tab" $pageName }}
+	<div id="{{ $pageName }}Content" class="sectionContent container-fluid">
+		{{ partial $path . }}
 	</div>
 </section>

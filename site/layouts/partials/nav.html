@@ -1,8 +1,16 @@
 <nav class="tab-nav navwrapper" role="tablist">
 	{{range site.Menus.main }}
 	{{ if not .Page.Params.hidden }}
-	{{ $name := .Page.Params.name }}
-	<a href="#{{ $name }}" id="{{ $name }}-nav" aria-selected='false' aria-controls='#{{ $name }}' role="tab">{{ $name }}</a>
+	{{ $pageName := trim .Page.Dir "/" }}
+	<a
+		href="#{{ $pageName }}"
+		id="{{ $pageName }}-nav"
+		aria-selected="false"
+		aria-controls="#{{ $pageName }}"
+		role="tab"
+	>
+		{{ .Params.name }}
+	</a>
 	{{ end }}
 	{{ end }}
 </nav>

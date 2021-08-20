@@ -20,7 +20,7 @@ collections:
         label: About
         name: about
         fields:
-          - {label: Name, name: name, widget: string}
+          - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
           # - {label: Hidden?, name: hidden, widget: boolean, default: false}
           - {label: Image, name: image, widget: image}
@@ -29,7 +29,7 @@ collections:
         label: Clients
         name: clients
         fields:
-          - {label: Name, name: name, widget: string}
+          - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
           # - {label: Hidden?, name: hidden, widget: boolean, default: false}
           - label: Clients
@@ -45,7 +45,7 @@ collections:
         label: Studio
         name: studio
         fields:
-          - {label: Name, name: name, widget: string}
+          - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: Blurb, name: blurb, widget: markdown}
@@ -54,18 +54,20 @@ collections:
         label: Services
         name: services
         fields:
-          - {label: Name, name: name, widget: string}
+          - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
           # - {label: Hidden?, name: hidden, widget: boolean, default: false}
-          - {label: Image, name: image, widget: image}
+          # - {label: Image, name: image, widget: image}
+          - {label: "Left Column", name: "colOne", widget: "markdown"}
+          - {label: "Right Column", name: "colTwo", widget: "markdown"}
       - file: "site/content/faq/_index.md"
         label: FAQ
         name: faq
         fields:
-          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Menu", name: "name", widget: "string"}
           - {label: "Title", name: "title", widget: "string"}
           # - {label: Hidden?, name: hidden, widget: boolean, default: false}
-          - label: "ColumnOne"
+          - label: "Left Column"
             name: "colOne"
             widget: "object"
             collapsed: true
@@ -79,7 +81,7 @@ collections:
                 fields:
                   - {label: "Question", name: "question", widget: "markdown"}
                   - {label: "Answer", name: "answer", widget: "markdown"}
-          - label: "ColumnTwo"
+          - label: "Right Column"
             name: "colTwo"
             widget: "object"
             collapsed: true
@@ -97,7 +99,7 @@ collections:
         label: Contact
         name: contact
         fields:
-          - {label: Name, name: name, widget: string}
+          - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
           # - {label: Hidden?, name: hidden, widget: boolean, default: false}
           - {label: Image, name: image, widget: image}
