@@ -19,6 +19,7 @@ collections:
       - file: "site/content/about/_index.md"
         label: About
         name: about
+        summary: "{{fields.title}}"
         fields:
           - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
@@ -28,6 +29,7 @@ collections:
       - file: "site/content/clients/_index.md"
         label: Clients
         name: clients
+        summary: "{{fields.title}}"
         fields:
           - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
@@ -44,6 +46,7 @@ collections:
       - file: "site/content/studio/_index.md"
         label: Studio
         name: studio
+        summary: "{{fields.title}}"
         fields:
           - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
@@ -53,6 +56,7 @@ collections:
       - file: "site/content/services/_index.md"
         label: Services
         name: services
+        summary: "{{fields.title}}"
         fields:
           - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
@@ -63,6 +67,7 @@ collections:
       - file: "site/content/faq/_index.md"
         label: FAQ
         name: faq
+        summary: "{{fields.title}}"
         fields:
           - {label: "Menu", name: "name", widget: "string"}
           - {label: "Title", name: "title", widget: "string"}
@@ -98,6 +103,7 @@ collections:
       - file: "site/content/contact/_index.md"
         label: Contact
         name: contact
+        summary: "{{fields.title}}"
         fields:
           - {label: Menu, name: name, widget: string}
           - {label: Title, name: title, widget: string}
