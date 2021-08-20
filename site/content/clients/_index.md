@@ -1,6 +1,6 @@
 ---
 name: selected works
-title: Selected WOrks
+title: Selected Works
 hideTitle: true
 menu:
   main:
