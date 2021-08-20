@@ -1,5 +1,5 @@
 ---
-name: clients
+name: works
 title: Clients
 hideTitle: true
 menu:
