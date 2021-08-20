@@ -1,6 +1,6 @@
 ---
-name: selected works
-title: Selected Works
+name: clients
+title: Clients
 hideTitle: true
 menu:
   main:
