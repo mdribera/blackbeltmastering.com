@@ -91,7 +91,70 @@ colTwo:
         Please use the information below as a guideline for timing sides:
 
 
-        <table><tr><td><b>12" (33 1/3 RPM)</b><br/><span class='small'>Best — 18 minutes per side</span><br/><span class='small'>OK — 20 minutes per side</span></td><td><b>12" (45 RPM)</b><br/><span class='small'>Best — 8 to 9 minutes per side</span><br/><span class='small'>OK — 12 minutes per side</span></td></tr><tr><td><b>10" (33 1/3 RPM)</b><br/><span class='small'>Best — 8 to 9 minutes per side</span><br/><span class='small'>OK — 13 minutes per side</span></td><td><b>10" (45 RPM)</b><br/><span class='small'>Best — 6 to 7 minutes per side</span><br/><span class='small'>OK — 10 minutes per side</span></td></tr><tr><td><b>7" (33 1/3 RPM)</b><br/><span class='small'>Best — 6 minutes per side</span><br/><span class='small'>Meh — 8 minutes per side</span></td><td><b>7" (45 RPM)</b><br/><span class='small'>Best — 3 minutes per side</span><br/><span class='small'>OK — 5 minutes per side</span></td></tr></table>
+        12" (33 1/3 RPM)
+
+
+        Best — 18 minutes per side
+
+
+        OK — 20 minutes per side
+
+
+
+
+        12" (45 RPM)
+
+
+        Best — 8 to 9 minutes per side
+
+
+        OK — 12 minutes per side
+
+
+
+
+        10" (33 1/3 RPM)
+
+
+        Best — 8 to 9 minutes per side
+
+
+        OK — 13 minutes per side
+
+
+
+
+        10" (45 RPM
+
+
+        Best — 6 to 7 minutes per side
+
+
+        OK — 10 minutes per side
+
+
+
+
+        7" (33 1/3 RPM
+
+
+        Best — 5 minutes per side
+
+
+        Just Don't — 8 minutes per side
+
+
+
+
+        7" (45 RPM)
+
+
+        Best — 3 minutes per side
+
+
+
+
+        Sorta OK — 5 minutes per side
     - question: What is a Matrix number, how do I get one?
       answer: Both myself and the pressing plant will ask you to provide what's known
         as a matrix number. The matrix (sometimes also called the 'catalog
