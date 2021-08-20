@@ -25,12 +25,12 @@ colOne:
         also find it helpful to include a few brief notes if there are specific
         song transition requests. Ultimately, a quick phone call is best.
     - question: Can I attend the mastering session?
-      answer: Yes, I encourage attended sessions. Sessions start at 10am. Attended
-        sessions allow you to be involved and understand the mastering process
-        from beginning to end and provides you access to ask questions and hear
-        immediate before and after mastering samples of your record. Sessions
-        can take anywhere from as few as 3 hours for short EP’s to 5+ hours for
-        longer, more involved LP’s.
+      answer: "Yes, I encourage attended sessions for full LP's only. Sessions start
+        at 10am. Attended sessions allow you to be involved and understand the
+        mastering process from beginning to end and provides you access to ask
+        questions and hear immediate before and after mastering samples of your
+        record. As these sessions tent to take more time, cost cost is more than
+        unattended. "
     - question: How do I send you my mixes?
       answer: You can send mixes by clicking this link for
         [wetransfer.com](https://www.wetransfer.com/) or by forwarding a link to
@@ -56,10 +56,6 @@ colOne:
         whatever reason you want to change something related to mastering after
         receiving your initial reference master, it’s on me! Any revisions
         beyond the first hour are billed at an hourly rate of $100 per hour.
-    - question: Do you offer samples of your mastering work?
-      answer: If you are a new client considering Black Belt Mastering for the first
-        time and are unsure about how your mixes will sound after being mastered
-        here, please contact us and we can discuss your project.
     - question: Are you really a black belt?
       answer: Yes, in the first degree. I studied Tae Kwon Do from age 12 through
         college with short studies in Wing-Chun Kung-Fu.
@@ -178,7 +174,7 @@ colTwo:
 
         * Book a session to have master lacquers cut. Sessions to cut master lacquers are not attended. One lacquer is needed for each side of a record. A single album needs 2 lacquers created, a double LP would need 4, etc. Let me know where the project is being pressed, and once the masters are cut I’ll express ship the lacquers directly to it or the corresponding plating facility.
 
-        * Finally, A few weeks after everything is sent to the plant you'll receive test pressings of your record. These are a small batch of finished records. Most plants require approval of test presses before manufacturing the bulk of your order. Once you approve the test presses the plant will complete the rest of your order.
+        * Finally, after everything is sent to the plant you'll receive test pressings of your record. These are a small batch of finished records. Most plants require approval of test presses before manufacturing the bulk of your order. Once you approve the test presses the plant will complete the rest of your order.
     - question: How should I evaluate an acetate, is it like a test pressing?
       answer: >-
         Acetates are more than double the weight of a test pressing and are cut
