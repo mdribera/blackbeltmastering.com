@@ -178,7 +178,7 @@ colTwo:
 
         * Book a session to have master lacquers cut. Sessions to cut master lacquers are not attended. One lacquer is needed for each side of a record. A single album needs 2 lacquers created, a double LP would need 4, etc. Let me know where the project is being pressed, and once the masters are cut I’ll express ship the lacquers directly to it or the corresponding plating facility.
 
-        * Finally, A few weeks after everything is sent to the plant you'll receive test pressings of your record. These are a small batch of finished records. Most plants require approval of test presses before manufacturing the bulk of your order. Once you approve the test presses the plant will complete the rest of your order.
+        * Finally, after everything is sent to the plant you'll receive test pressings of your record. These are a small batch of finished records. Most plants require approval of test presses before manufacturing the bulk of your order. Once you approve the test presses the plant will complete the rest of your order.
     - question: How should I evaluate an acetate, is it like a test pressing?
       answer: >-
         Acetates are more than double the weight of a test pressing and are cut
