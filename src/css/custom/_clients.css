@@ -8,6 +8,7 @@
   margin-bottom: 15px;
   width: calc(33% - 9px);
   max-width: 100%;
+  overflow: hidden;
 
   .cover {
     padding-bottom: 100%;
