@@ -136,4 +136,8 @@ clients:
     image: img/05_MXPX.jpg
     secondLine: MxPx
     attribution: Vinyl
+  - image: img/syml2.jpg
+    artist: SYML
+    secondLine: DIM
+    attribution: Digital
 ---
