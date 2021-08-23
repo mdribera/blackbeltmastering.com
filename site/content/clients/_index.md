@@ -140,4 +140,8 @@ clients:
     artist: SYML
     secondLine: DIM
     attribution: Digital
+  - artist: Central Park
+    secondLine: Season 1 & 2
+    image: img/cp.jpg
+    attribution: DIgital
 ---
