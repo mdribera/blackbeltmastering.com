@@ -15,7 +15,7 @@ clients:
     secondLine: Return of the Frog Queen
     attribution: Digital, Vinyl
   - artist: Metallica
-    secondLine: Vinyl Club Vol. 4
+    secondLine: Tribute To Chris Cornell
     image: img/metallica.jpg
     attribution: Vinyl
   - artist: Olivia Rodrigo
@@ -24,7 +24,7 @@ clients:
     attribution: Vinyl
   - artist: SYML
     image: img/04_SYML.jpeg
-    secondLine: SYML
+    secondLine: In My Body
     attribution: Digital
   - artist: Pearl Jam
     image: img/04_Pearl_Jam_Lets_Play_Two.jpg
@@ -57,7 +57,7 @@ clients:
   - artist: Metallica
     image: img/03_Metallica.jpg
     attribution: Vinyl
-    secondLine: Vinyl Club Vol. 1
+    secondLine: Live At Donnington '97
   - image: img/syml2.jpg
     artist: SYML
     secondLine: DIM
@@ -100,6 +100,8 @@ clients:
     attribution: Digital
   - artist: Super Bomberman R
     image: img/14_super-bomberman-r.jpg
+    secondLine: OST
+    attribution: Vinyl
   - artist: The Germs
     image: img/16_the-germs.jpg
     secondLine: Live At The Starwood
