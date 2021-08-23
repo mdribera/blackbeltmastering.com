@@ -132,4 +132,20 @@ clients:
     image: img/45_subways-on-the-sun-2.jpg
     secondLine: Capsize
     attribution: Digital
+  - artist: Metallica
+    secondLine: Vinyl Club Vol. 4
+    image: img/metallica.jpg
+    attribution: Vinyl
+  - artist: Demi Lovato
+    secondLine: I <3 ME
+    image: img/demi-lovato.jpg
+    attribution: Vinyl
+  - artist: Eddie Vedder
+    secondLine: Wild Flowers/Keep Me In Your Heart
+    image: img/eddie-vedder.jpg
+    attribution: Vinyl
+  - artist: Olivia Rodrigo
+    secondLine: Sour
+    image: img/sour.jpg
+    attribution: Vinyl
 ---
