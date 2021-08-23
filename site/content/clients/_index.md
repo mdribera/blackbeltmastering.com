@@ -78,38 +78,40 @@ clients:
     image: img/10_mandy-moore.jpeg
     secondLine: How Could This Be Christmas?
     attribution: Vinyl
-  - artist: Jonathan Davis
-    image: img/11_jonathan-davis.jpg
   - artist: Rocky Votolato
     image: img/11_rocky-votolato-hospital-handshakes.jpg
     secondLine: Hospital Handshakes
     attribution: Digital
   - artist: Copeland
     image: img/12_copeland.jpg
-  - artist: "Wanz : Warren G"
+  - artist: Wanz and Warren G
     image: img/12_wanz-warren-g.jpg
+    secondLine: "To: Nate Dogg"
+    attribution: Digital
   - artist: SLOUCHER
     image: img/13_sloucher-be-true.jpg
+    secondLine: Be True
+    attribution: Digital, Vinyl
   - artist: Super Bomberman R
     image: img/14_super-bomberman-r.jpg
-  - artist: Pearl Jam
-    image: img/16_pearl-jam-vault8.jpg
   - artist: The Germs
     image: img/16_the-germs.jpg
   - artist: Jeremy Enigk
-    image: img/17_jeremy-enigk-okbear.jpg
-  - artist: Jeremy Enigk
     image: img/17_jeremy-enigk-rarities.jpg
+    secondLine: Rarities
+    attribution: Digital
   - artist: Shannon Stephens
     image: img/18_shannon-stephens.jpg
+    secondLine: Pull It Together
+    attribution: Digital
   - artist: My Goodness
     image: img/21_my-goodness.jpg
-  - artist: Blood Drugs
-    image: img/22_blood-drugs.jpg
+    secondLine: Scavengers
+    attribution: Digital
   - artist: Jen Wood
     image: img/22_jen-wood.jpg
-  - artist: All Star Opera
-    image: img/27_all-star-opera.jpg
+    secondLine: Wilderness
+    attribution: Digital
   - artist: Jenn Champion
     image: img/32_jenn-champion-m-.jpg
     secondLine: Single Rider
