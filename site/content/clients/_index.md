@@ -15,7 +15,7 @@ clients:
     secondLine: Return of the Frog Queen
     attribution: Digital, Vinyl
   - artist: Metallica
-    secondLine: Vinyl Club Vol. 4
+    secondLine: Tribute To Chris Cornell
     image: img/metallica.jpg
     attribution: Vinyl
   - artist: Olivia Rodrigo
@@ -57,7 +57,7 @@ clients:
   - artist: Metallica
     image: img/03_Metallica.jpg
     attribution: Vinyl
-    secondLine: Vinyl Club Vol. 1
+    secondLine: Live At Donnington '97
   - image: img/syml2.jpg
     artist: SYML
     secondLine: DIM
