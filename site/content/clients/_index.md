@@ -103,27 +103,23 @@ clients:
   - artist: The Germs
     image: img/16_the-germs.jpg
     secondLine: Live At The Starwood
-    attribution: Digital, Vinyl
+    attribution: Vinyl
   - artist: Jeremy Enigk
     image: img/17_jeremy-enigk-rarities.jpg
     secondLine: Rarities
-    attribution: Digital
-  - artist: Shannon Stephens
-    image: img/18_shannon-stephens.jpg
-    secondLine: Pull It Together
     attribution: Digital
   - artist: Pearl Jam
     image: img/36_pearl-jam-easystreet.jpg
     secondLine: Live At Easy Street
     attribution: Vinyl
-  - artist: Jenn Champion
-    image: img/32_jenn-champion-m-.jpg
-    secondLine: Single Rider
-    attribution: Digital
   - artist: Eddie Vedder
     secondLine: Wild Flowers/Keep Me In Your Heart
     image: img/eddie-vedder.jpg
     attribution: Vinyl
+  - artist: Shannon Stephens
+    image: img/18_shannon-stephens.jpg
+    secondLine: Pull It Together
+    attribution: Digital
   - artist: Salt-N-Pepa
     secondLine: Push It
     image: img/salt-n-pepa.jpg
@@ -132,10 +128,10 @@ clients:
     image: img/06_The_Fire_Theft.jpg
     secondLine: The Fire Theft
     attribution: Vinyl
-  - artist: Rocky Votolato
-    image: img/09_Rocky_Votolato_Live_At_Black_Belt.jpg
-    secondLine: Live At Black Belt
-    attribution: Digital, Vinyl
+  - artist: Jenn Champion
+    image: img/32_jenn-champion-m-.jpg
+    secondLine: Single Rider
+    attribution: Digital
   - artist: MxPx
     image: img/05_MXPX.jpg
     secondLine: MxPx
