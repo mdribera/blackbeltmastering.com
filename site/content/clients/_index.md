@@ -46,7 +46,7 @@ clients:
     image: img/06_Diplo.jpg
     secondLine: Europa!
     attribution: Vinyl
-  - artist: SLOUCHER
+  - artist: Sloucher
     image: img/13_sloucher-be-true.jpg
     secondLine: Be True
     attribution: Digital, Vinyl
@@ -82,18 +82,14 @@ clients:
     image: img/10_mandy-moore.jpeg
     secondLine: How Could This Be Christmas?
     attribution: Vinyl
-  - artist: Game Of Thrones
-    image: img/06_Game_Of_Thrones_Season_8.jpg
-    secondLine: Season 8 OST
-    attribution: Vinyl
-  - artist: Julian Lennon
-    image: img/07_Julian_Lennon.jpg
-    secondLine: Valotte
-    attribution: Vinyl
   - artist: Stereo Creeps
     image: img/09_Stereo_Creeps.jpg
     secondLine: Suck
     attribution: Digital, Vinyl
+  - artist: Game Of Thrones
+    image: img/06_Game_Of_Thrones_Season_8.jpg
+    secondLine: Season 8 OST
+    attribution: Vinyl
   - artist: Copeland
     image: img/12_copeland.jpg
     secondLine: Blushing
@@ -106,26 +102,24 @@ clients:
     image: img/14_super-bomberman-r.jpg
   - artist: The Germs
     image: img/16_the-germs.jpg
+    secondLine: Live At The Starwood
+    attribution: Vinyl
   - artist: Jeremy Enigk
     image: img/17_jeremy-enigk-rarities.jpg
     secondLine: Rarities
-    attribution: Digital
-  - artist: Shannon Stephens
-    image: img/18_shannon-stephens.jpg
-    secondLine: Pull It Together
     attribution: Digital
   - artist: Pearl Jam
     image: img/36_pearl-jam-easystreet.jpg
     secondLine: Live At Easy Street
     attribution: Vinyl
-  - artist: Jenn Champion
-    image: img/32_jenn-champion-m-.jpg
-    secondLine: Single Rider
-    attribution: Digital
   - artist: Eddie Vedder
     secondLine: Wild Flowers/Keep Me In Your Heart
     image: img/eddie-vedder.jpg
     attribution: Vinyl
+  - artist: Shannon Stephens
+    image: img/18_shannon-stephens.jpg
+    secondLine: Pull It Together
+    attribution: Digital
   - artist: Salt-N-Pepa
     secondLine: Push It
     image: img/salt-n-pepa.jpg
@@ -134,12 +128,24 @@ clients:
     image: img/06_The_Fire_Theft.jpg
     secondLine: The Fire Theft
     attribution: Vinyl
-  - artist: Rocky Votolato
-    image: img/09_Rocky_Votolato_Live_At_Black_Belt.jpg
-    secondLine: Live At Black Belt
-    attribution: Digital, Vinyl
+  - artist: Jenn Champion
+    image: img/32_jenn-champion-m-.jpg
+    secondLine: Single Rider
+    attribution: Digital
   - artist: MxPx
     image: img/05_MXPX.jpg
     secondLine: MxPx
+    attribution: Vinyl
+  - image: img/syml2.jpg
+    artist: SYML
+    secondLine: DIM
+    attribution: Digital
+  - artist: Central Park
+    secondLine: Season 1 & 2
+    image: img/cp.jpg
+    attribution: DIgital
+  - artist: Alice Cooper
+    secondLine: School's Out
+    image: img/alice-cooper.jpg
     attribution: Vinyl
 ---
