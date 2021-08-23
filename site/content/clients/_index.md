@@ -24,7 +24,7 @@ clients:
     attribution: Vinyl
   - artist: SYML
     image: img/04_SYML.jpeg
-    secondLine: SYML
+    secondLine: In My Body
     attribution: Digital
   - artist: Pearl Jam
     image: img/04_Pearl_Jam_Lets_Play_Two.jpg
@@ -100,6 +100,8 @@ clients:
     attribution: Digital
   - artist: Super Bomberman R
     image: img/14_super-bomberman-r.jpg
+    secondLine: OST
+    attribution: Vinyl
   - artist: The Germs
     image: img/16_the-germs.jpg
     secondLine: Live At The Starwood
