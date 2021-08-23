@@ -144,4 +144,8 @@ clients:
     secondLine: Season 1 & 2
     image: img/cp.jpg
     attribution: DIgital
+  - artist: Alice Cooper
+    secondLine: School's Out
+    image: img/alice-cooper.jpg
+    attribution: Vinyl
 ---
