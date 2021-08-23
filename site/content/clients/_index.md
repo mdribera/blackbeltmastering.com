@@ -58,9 +58,9 @@ clients:
     image: img/03_Metallica.jpg
     attribution: Vinyl
     secondLine: Vinyl Club Vol. 1
-  - artist: Poor Old Lu
-    secondLine: Sin
-    image: img/poor-old-lu.jpg
+  - image: img/syml2.jpg
+    artist: SYML
+    secondLine: DIM
     attribution: Digital
   - artist: Buddy Guy & Junior Wells
     image: img/08_Buddy_Guy.jpg
@@ -136,16 +136,16 @@ clients:
     image: img/05_MXPX.jpg
     secondLine: MxPx
     attribution: Vinyl
-  - image: img/syml2.jpg
-    artist: SYML
-    secondLine: DIM
+  - artist: Poor Old Lu
+    secondLine: Sin
+    image: img/poor-old-lu.jpg
     attribution: Digital
-  - artist: Central Park
-    secondLine: Season 1 & 2
-    image: img/cp.jpg
-    attribution: DIgital
   - artist: Alice Cooper
     secondLine: School's Out
     image: img/alice-cooper.jpg
     attribution: Vinyl
+  - artist: Central Park
+    secondLine: Season 1 & 2
+    image: img/cp.jpg
+    attribution: DIgital
 ---
