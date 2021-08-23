@@ -142,4 +142,8 @@ clients:
     secondLine: Sin
     image: img/poor-old-lu.jpg
     attribution: Digital
+  - artist: SYML
+    secondLine: DIM
+    image: img/syml.jpg
+    attribution: Digital
 ---
