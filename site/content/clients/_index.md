@@ -149,5 +149,5 @@ clients:
   - artist: Central Park
     secondLine: Season 1 & 2
     image: img/cp.jpg
-    attribution: DIgital
+    attribution: Digital
 ---
