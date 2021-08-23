@@ -100,6 +100,8 @@ clients:
     attribution: Digital, Vinyl
   - artist: Copeland
     image: img/12_copeland.jpg
+    secondLine: Blushing
+    attribution: Vinyl
   - artist: Wanz and Warren G
     image: img/12_wanz-warren-g.jpg
     secondLine: "To: Nate Dogg"
