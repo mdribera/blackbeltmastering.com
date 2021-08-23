@@ -148,4 +148,12 @@ clients:
     secondLine: Sour
     image: img/sour.jpg
     attribution: Vinyl
+  - artist: Salt-N-Pepa
+    secondLine: Push It
+    image: img/salt-n-pepa.jpg
+    attribution: Vinyl
+  - artist: Poor Old Lu
+    secondLine: Sin
+    image: img/poor-old-lu.jpg
+    attribution: Digital
 ---
