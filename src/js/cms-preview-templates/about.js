@@ -15,7 +15,7 @@ export class AboutPreview extends React.Component {
     return (
       <BlackBeltPage title={title} pageName={pageName} hideTitle={hideTitle}>
         <img
-          className="half-column padding-left pull-right"
+          className="half-column pull-right"
           src={`/${image}`}
           alt=""
         />

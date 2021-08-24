@@ -25,10 +25,8 @@ $(document).ready(function() {
   const $siteTitle = $("#site-title");
   const $welcome = $(".welcome-content");
   const $header = $("header");
+  const $navbarToggle = $(".navbar-toggle");
   const $background = $(".content-background");
-
-  const $clientTabs = $(".client-tab");
-  const $clientContent = $(".client-content");
 
   function attachListeners() {
     $welcome.on("click", (e) => {
@@ -40,32 +38,14 @@ $(document).ready(function() {
       navigatePage(window.location.hash);
     });
 
+    $navbarToggle.on("click", (e) => {
+      e.stopPropagation();
+      toggleNav();
+    });
+
     $siteTitle.on("click", (e) => {
       e.stopPropagation();
       toggleWelcome();
-    });
-
-    $clientTabs.each(function() {
-      const item = $(this);
-      item.on("click", function() {
-        const clickedTab = $(this).data("content");
-        $clientTabs.each(function() {
-          const tab = $(this);
-          if (tab.data("content") === clickedTab) {
-            tab.addClass("active");
-          } else if (tab.hasClass("active")) {
-            tab.removeClass("active");
-          }
-        });
-        $clientContent.each(function() {
-          const content = $(this);
-          if (content.hasClass(clickedTab)) {
-            content.addClass("active");
-          } else if (content.hasClass("active")) {
-            content.removeClass("active");
-          }
-        });
-      });
     });
   }
 
@@ -89,6 +69,10 @@ $(document).ready(function() {
     }
   }
 
+  function toggleNav() {
+    $header.collapse("toggle");
+  }
+
   function navigatePage(page) {
     var hash = window.location.hash;
 
@@ -102,6 +86,10 @@ $(document).ready(function() {
         $welcome.removeClass("down");
         $header.removeClass("down");
         $background.stop().fadeIn(2000);
+      }
+
+      if ($header.hasClass("in")) {
+        $header.collapse("hide");
       }
     }
   }
