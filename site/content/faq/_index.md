@@ -7,9 +7,6 @@ menu:
 colOne:
   title: General
   faq:
-    - question: How much will mastering cost?
-      answer: Singles are $120, 2 or more songs are $60/each. 5 songs would cost $300
-        and 10 songs would cost $600.  Attended sessions are $75 per song.
     - question: What do I get once we’re done?
       answer: Once the mastering process is complete, and payment has been made, you
         will receive fully sequenced WAV masters of all your songs along with a
@@ -55,7 +52,7 @@ colOne:
       answer: Yes, one free hour of revisions is included with each session. If for
         whatever reason you want to change something related to mastering after
         receiving your initial reference master, it’s on me! Any revisions
-        beyond the first hour are billed at an hourly rate of $100 per hour.
+        beyond the first hour are billed at an hourly rate.
     - question: Are you really a black belt?
       answer: Yes, in the first degree. I studied Tae Kwon Do from age 12 through
         college with short studies in Wing-Chun Kung-Fu.
@@ -72,8 +69,6 @@ colTwo:
 
 
         **Digital Cutting Masters** — If we did the initial mastering for your record and you're choosing to have lacquers cut elsewhere, we can provide the 24-bit side A and B digital files and required timing log.
-    - question: How much does lacquer cutting cost?
-      answer: "Please contact us for current rates. "
     - question: How long can each side of my record be?
       answer: >-
         While CDs can hold over 70 minutes of material, this is essentially
