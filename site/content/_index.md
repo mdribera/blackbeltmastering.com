@@ -19,4 +19,6 @@ welcome:
   - img/10_Deep_Sea_Diver.jpg
   - img/16_pearl-jam-vault8.jpg
   - img/10_mandy-moore.jpeg
+  - img/sour.jpg
+  - img/metallica.jpg
 ---
