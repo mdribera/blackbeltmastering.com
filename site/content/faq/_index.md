@@ -11,8 +11,7 @@ colOne:
       answer: Once the mastering process is complete, and payment has been made, you
         will receive fully sequenced WAV masters of all your songs along with a
         DDP image that can be used for CD manufacturing. Other formats, such as
-        MFiT or 24 bit vinyl ready masters can be provided on request and are
-        listed on the RATES page.
+        MFiT or 24 bit vinyl ready masters can be provided on request.
     - question: What information do you need before starting my session?
       answer: "Please provide the following info: Song order, Artist or Band name,
         Album Title, Song Titles, ISRC codes (if you have them)."
