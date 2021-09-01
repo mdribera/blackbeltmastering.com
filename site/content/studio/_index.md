@@ -4,7 +4,7 @@ title: The Mastering Studio
 menu:
   main:
     weight: 3
-image: img/011.jpg
+image: img/img_0007.jpg
 blurb: Black Belt Mastering is primarily an analog studio, most of the equipment
   is either custom built or modified. We embrace both analog and digital
   technologies to bring out the best in your recordings. Each piece of equipment
