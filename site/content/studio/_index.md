@@ -4,7 +4,7 @@ title: The Mastering Studio
 menu:
   main:
     weight: 3
-image: img/img_0007.jpg
+image: img/1.jpg
 images:
   - image: img/011.jpg
     caption: The Studio!
