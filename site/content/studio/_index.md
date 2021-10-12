@@ -10,16 +10,16 @@ images:
   - image: img/3.jpg
   - image: img/4.jpg
   - image: img/5.jpg
-  - image: img/6.jpg
-blurb: Black Belt Mastering is primarily an analog studio, most of the equipment
-  is either custom built or modified. We embrace both analog and digital
-  technologies to bring out the best in your recordings. Each piece of equipment
-  has been selected and optimized just for mastering.
+blurb: Our main studio is fully equipped for digital mastering with our custom
+  hybrid analog/digital desk with lacquer cutting with our modified Neumann
+  AM32b/Pitch13/Technics SP-02 lathe. Our secondary room hosts a pristine early
+  serial number 1966 Neumann VMS-66 lathe for cutting lacquers...it sounds
+  amazing! Finally, our lounge has all the amenities for a comfortable hang.
 sidebar: |-
   ### Transports/Playback:
 
-  * Neumann lathe
-  * 1/2" and 1/4" tape
+  * Neumann lathe x 2
+  * Reel to reel tape on request
   * DSD
   * DAT
   * WAV and AIFF
@@ -32,12 +32,4 @@ sidebar: |-
   * Foote Control Systems
   * Maselec
   * Cranesong
-
-  ### Monitoring:
-
-  * Dunlavy
-  * Cranesong
-  * Audire
-  * M&K
-  * Altec
 ---
