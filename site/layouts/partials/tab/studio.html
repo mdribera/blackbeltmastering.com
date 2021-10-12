@@ -1,8 +1,12 @@
 <div class="row">
 	<p class="col-xs-12 text-center">{{ .Params.blurb | markdownify }}</p>
 
-	<div class="col-xs-12 col-sm-6 col-md-8">
-		<img src="{{ .Params.image }}" />
+	<div class="col-xs-12 col-sm-6 col-md-8 row studio-gallery">
+		{{ range $index, $image := .Params.images }}
+		<a class="col-xs-6" href="{{ $image.image }}" data-lightbox="gallery" data-title="{{ $image.caption }}">
+			<img src="{{ $image.image }}" />
+		</a>
+		{{ end }}
 	</div>
 
 	<div class="col-xs-12 col-sm-6 col-md-4">
