@@ -34,9 +34,9 @@ clients:
     secondLine: I <3 ME
     image: img/demi-lovato.jpg
     attribution: Vinyl
-  - artist: Jen Wood
-    image: img/22_jen-wood.jpg
-    secondLine: Wilderness
+  - artist: Naomi Wachira
+    secondLine: Songs of Lament
+    image: img/naomi-wachira.jpg
     attribution: Digital
   - artist: Green Day
     image: img/04_Green_Day.png
@@ -106,9 +106,9 @@ clients:
     image: img/16_the-germs.jpg
     secondLine: Live At The Starwood
     attribution: Vinyl
-  - artist: Jeremy Enigk
-    image: img/17_jeremy-enigk-rarities.jpg
-    secondLine: Rarities
+  - artist: Jen Wood
+    image: img/22_jen-wood.jpg
+    secondLine: Wilderness
     attribution: Digital
   - artist: Pearl Jam
     image: img/36_pearl-jam-easystreet.jpg
