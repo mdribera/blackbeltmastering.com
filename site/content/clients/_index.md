@@ -114,9 +114,9 @@ clients:
     image: img/36_pearl-jam-easystreet.jpg
     secondLine: Live At Easy Street
     attribution: Vinyl
-  - artist: Eddie Vedder
-    secondLine: Wild Flowers/Keep Me In Your Heart
-    image: img/eddie-vedder.jpg
+  - artist: Eric Clapton
+    secondLine: The Lady In The Balcony
+    image: img/eric-clapton.jpg
     attribution: Vinyl
   - artist: Shannon Stephens
     image: img/18_shannon-stephens.jpg
