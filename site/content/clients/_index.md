@@ -21,6 +21,7 @@ clients:
   - artist: Beyoncé
     secondLine: Renaissance
     image: img/beyonce-renaissance.jpeg
+    attribution: Vinyl
   - artist: SYML
     image: img/04_SYML.jpeg
     secondLine: In My Body
