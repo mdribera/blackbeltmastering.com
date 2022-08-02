@@ -18,17 +18,17 @@ clients:
     secondLine: Tribute To Chris Cornell
     image: img/metallica.jpg
     attribution: Vinyl
-  - artist: Olivia Rodrigo
-    secondLine: Sour
-    image: img/sour.jpg
+  - artist: Beyoncé
+    secondLine: Renaissance
+    image: img/beyonce-renaissance.jpeg
     attribution: Vinyl
   - artist: SYML
     image: img/04_SYML.jpeg
     secondLine: In My Body
     attribution: Digital
-  - artist: Pearl Jam
-    image: img/04_Pearl_Jam_Lets_Play_Two.jpg
-    secondLine: Lets Play Two
+  - artist: Olivia Rodrigo
+    secondLine: Sour
+    image: img/sour.jpg
     attribution: Vinyl
   - artist: Demi Lovato
     secondLine: I <3 ME
@@ -138,10 +138,6 @@ clients:
     image: img/05_MXPX.jpg
     secondLine: MxPx
     attribution: Vinyl
-  - artist: Poor Old Lu
-    secondLine: Sin
-    image: img/poor-old-lu.jpg
-    attribution: Digital
   - artist: Alice Cooper
     secondLine: School's Out
     image: img/alice-cooper.jpg
@@ -150,4 +146,8 @@ clients:
     secondLine: Season 1 & 2
     image: img/cp.jpg
     attribution: Digital
+  - artist: Pearl Jam
+    image: img/04_Pearl_Jam_Lets_Play_Two.jpg
+    secondLine: Lets Play Two
+    attribution: Vinyl
 ---
