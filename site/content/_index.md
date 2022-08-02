@@ -21,4 +21,5 @@ welcome:
   - img/10_mandy-moore.jpeg
   - img/sour.jpg
   - img/metallica.jpg
+  - img/beyonce-renaissance.jpeg
 ---
