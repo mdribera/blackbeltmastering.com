@@ -122,9 +122,9 @@ clients:
     image: img/18_shannon-stephens.jpg
     secondLine: Pull It Together
     attribution: Digital
-  - artist: Salt-N-Pepa
-    secondLine: Push It
-    image: img/salt-n-pepa.jpg
+  - artist: Beck
+    secondLine: Colors
+    image: img/beck-colors.jpg
     attribution: Vinyl
   - artist: The Fire Theft
     image: img/06_The_Fire_Theft.jpg
@@ -146,8 +146,8 @@ clients:
     secondLine: Season 1 & 2
     image: img/cp.jpg
     attribution: Digital
-  - artist: Pearl Jam
-    image: img/04_Pearl_Jam_Lets_Play_Two.jpg
-    secondLine: Lets Play Two
+  - artist: Chris Isaak
+    secondLine: Heart Shaped World
     attribution: Vinyl
+    image: img/chris-isaak-heart-shaped-world.jpg
 ---
