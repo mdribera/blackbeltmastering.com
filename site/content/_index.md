@@ -13,13 +13,12 @@ welcome:
   - img/06_Game_Of_Thrones_Season_8.jpg
   - img/06_The_Fire_Theft.jpg
   - img/07_August_Burns_Red_Guardians.jpg
-  - img/07_Julian_Lennon.jpg
   - img/08_Buddy_Guy.jpg
-  - img/08_Fanfarlo.jpg
-  - img/10_Deep_Sea_Diver.jpg
   - img/16_pearl-jam-vault8.jpg
   - img/10_mandy-moore.jpeg
   - img/sour.jpg
   - img/metallica.jpg
   - img/beyonce-renaissance.jpeg
+  - img/chris-isaak-heart-shaped-world.jpg
+  - img/beck-colors.jpg
 ---
