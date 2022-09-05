@@ -11,7 +11,7 @@ images:
   - image: img/4.jpg
   - image: img/5.jpg
   - image: img/6.jpg
-  - image: img/img_4711.jpg
+  - image: img/img_4565.jpg
   - image: img/68326156188__f3d9b821-9f52-42fc-a810-dd6d0605d185.jpg
 blurb: Our main studio is fully equipped for digital mastering with our custom
   hybrid analog/digital transfer desk. Lacquer cutting is performed on our
