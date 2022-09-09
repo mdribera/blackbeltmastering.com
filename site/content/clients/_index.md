@@ -143,8 +143,8 @@ clients:
     image: img/alice-cooper.jpg
     attribution: Vinyl
   - artist: Central Park
-    secondLine: Season 1 & 2
-    image: img/cp.jpg
+    secondLine: Seasons 1, 2 & 3
+    image: img/img_4726.jpg
     attribution: Digital
   - artist: Chris Isaak
     secondLine: Heart Shaped World
