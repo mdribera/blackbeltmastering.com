@@ -8,7 +8,7 @@ paypal:
   link: https://www.paypal.com/cgi-bin/webscr?business=levi@blackbeltmastering.com&cmd=_xclick&currency_code=USD&amount=0&item_name=Mastering
   image: img/paypal.png
 colOne: >-
-  <h3>Mastering</h3>
+  <h3>Digital Mastering</h3>
 
   <p><b>Unattended:</b></p>
 
@@ -42,7 +42,7 @@ colOne: >-
 
   <p class='small'><span class='asterisk'>*</span>Instrumental/Radio/Alt edits must be supplied at the time of the initial mastering session. Alt mixes received after mastering is complete are billed at the full unattended rate</p>
 colTwo: >-
-  <h3>Vinyl Cutting</h3>
+  <h3>Vinyl Mastering</h3>
 
   <p><b>Master Lacquers:</b></p>
 
