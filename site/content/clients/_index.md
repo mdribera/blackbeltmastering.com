@@ -13,7 +13,7 @@ clients:
   - artist: Jeremy Enigk
     image: img/01_Jeremy_Enigk_ROTFQ.jpg
     secondLine: Return of the Frog Queen
-    attribution: Digital Mastering, Vinyl Cutting
+    attribution: Digital + Vinyl Mastering
   - artist: Metallica
     secondLine: Tribute To Chris Cornell
     image: img/metallica.jpg
