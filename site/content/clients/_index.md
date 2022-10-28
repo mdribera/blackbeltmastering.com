@@ -65,7 +65,7 @@ clients:
   - artist: Buddy Guy & Junior Wells
     image: img/08_Buddy_Guy.jpg
     secondLine: Play The Blues
-    attribution: Vinyl Mastering
+    attribution: Vinyl Remastering 2020
   - artist: August Burns Red
     image: img/07_August_Burns_Red_Guardians.jpg
     secondLine: Guardians
@@ -76,7 +76,7 @@ clients:
     attribution: Digital Mastering
   - artist: The Donnas
     image: img/03_The_Donnas.jpg
-    attribution: Vinyl  Re-mastering
+    attribution: Vinyl Remastering 2020
     secondLine: Spend The Night
   - artist: Mandy Moore
     image: img/10_mandy-moore.jpeg
