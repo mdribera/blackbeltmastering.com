@@ -9,145 +9,145 @@ clients:
   - artist: Joker
     image: img/02_Joker_OST.jpg
     secondLine: OST
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Jeremy Enigk
     image: img/01_Jeremy_Enigk_ROTFQ.jpg
     secondLine: Return of the Frog Queen
-    attribution: Digital, Vinyl
+    attribution: Digital Mastering, Vinyl Cutting
   - artist: Metallica
     secondLine: Tribute To Chris Cornell
     image: img/metallica.jpg
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Beyoncé
     secondLine: Renaissance
     image: img/beyonce-renaissance.jpeg
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: SYML
     image: img/04_SYML.jpeg
     secondLine: In My Body
-    attribution: Digital
+    attribution: Digital Mastering
+  - artist: Nirvana
+    secondLine: Nevermind
+    attribution: Vinyl Remastering 2022
+    image: img/nirvana-nevermind.jpg
   - artist: Olivia Rodrigo
     secondLine: Sour
     image: img/sour.jpg
-    attribution: Vinyl
-  - artist: Demi Lovato
-    secondLine: I <3 ME
-    image: img/demi-lovato.jpg
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Naomi Wachira
     secondLine: Songs of Lament
     image: img/naomi-wachira.jpg
-    attribution: Digital
+    attribution: Digital Mastering
   - artist: Green Day
     image: img/04_Green_Day.png
-    attribution: Vinyl
+    attribution: Vinyl Mastering
     secondLine: Live At The Whisky
   - artist: Diplo
     image: img/06_Diplo.jpg
     secondLine: Europa!
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Sloucher
     image: img/13_sloucher-be-true.jpg
     secondLine: Be True
-    attribution: Digital, Vinyl
+    attribution: Digital + Vinyl Mastering
   - artist: Deep Sea Diver
     image: img/10_deep-sea-diver.jpg
     secondLine: Impossible Weight
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Metallica
     image: img/03_Metallica.jpg
-    attribution: Vinyl
+    attribution: Vinyl Mastering
     secondLine: Live At Donnington '97
   - image: img/syml2.jpg
     artist: SYML
     secondLine: DIM
-    attribution: Digital
+    attribution: Digital Mastering
   - artist: Buddy Guy & Junior Wells
     image: img/08_Buddy_Guy.jpg
     secondLine: Play The Blues
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: August Burns Red
     image: img/07_August_Burns_Red_Guardians.jpg
     secondLine: Guardians
-    attribution: Half-Speed Vinyl
+    attribution: Half-Speed Vinyl Mastering
   - artist: Rocky Votolato
     image: img/11_rocky-votolato-hospital-handshakes.jpg
     secondLine: Hospital Handshakes
-    attribution: Digital
+    attribution: Digital Mastering
   - artist: The Donnas
     image: img/03_The_Donnas.jpg
-    attribution: Vinyl
+    attribution: Vinyl  Re-mastering
     secondLine: Spend The Night
   - artist: Mandy Moore
     image: img/10_mandy-moore.jpeg
     secondLine: How Could This Be Christmas?
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Stereo Creeps
     image: img/09_Stereo_Creeps.jpg
     secondLine: Suck
-    attribution: Digital, Vinyl
+    attribution: Digital + Vinyl Mastering
   - artist: Game Of Thrones
     image: img/06_Game_Of_Thrones_Season_8.jpg
     secondLine: Season 8 OST
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Copeland
     image: img/12_copeland.jpg
     secondLine: Blushing
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Wanz and Warren G
     image: img/12_wanz-warren-g.jpg
     secondLine: "To: Nate Dogg"
-    attribution: Digital
+    attribution: Digital Mastering
   - artist: Super Bomberman R
     image: img/14_super-bomberman-r.jpg
     secondLine: OST
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: The Germs
     image: img/16_the-germs.jpg
     secondLine: Live At The Starwood
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Jen Wood
     image: img/22_jen-wood.jpg
     secondLine: Wilderness
-    attribution: Digital
+    attribution: Digital Mastering
   - artist: Pearl Jam
     image: img/36_pearl-jam-easystreet.jpg
     secondLine: Live At Easy Street
-    attribution: Vinyl
-  - artist: Eric Clapton
-    secondLine: The Lady In The Balcony
-    image: img/eric-clapton.jpg
-    attribution: Vinyl
+    attribution: Vinyl Mastering
+  - artist: Demi Lovato
+    secondLine: I <3 ME
+    image: img/demi-lovato.jpg
+    attribution: Vinyl Mastering
   - artist: Shannon Stephens
     image: img/18_shannon-stephens.jpg
     secondLine: Pull It Together
-    attribution: Digital
+    attribution: Digital Mastering
   - artist: Beck
     secondLine: Colors
     image: img/beck-colors.jpg
-    attribution: Vinyl
+    attribution: Vinyl Remastering 2022
   - artist: The Fire Theft
     image: img/06_The_Fire_Theft.jpg
     secondLine: The Fire Theft
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Jenn Champion
     image: img/32_jenn-champion-m-.jpg
     secondLine: Single Rider
-    attribution: Digital
+    attribution: Digital Mastering
   - artist: MxPx
     image: img/05_MXPX.jpg
     secondLine: MxPx
-    attribution: Vinyl
+    attribution: Vinyl Mastering
   - artist: Alice Cooper
     secondLine: School's Out
     image: img/alice-cooper.jpg
-    attribution: Vinyl
+    attribution: Vinyl Remastering 2021
   - artist: Central Park
     secondLine: Seasons 1, 2 & 3
     image: img/img_4726.jpg
-    attribution: Digital
+    attribution: Digital Mastering
   - artist: Chris Isaak
     secondLine: Heart Shaped World
-    attribution: Vinyl
+    attribution: Vinyl Remastering 2022
     image: img/chris-isaak-heart-shaped-world.jpg
 ---
