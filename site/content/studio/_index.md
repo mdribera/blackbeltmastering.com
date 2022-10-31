@@ -23,7 +23,6 @@ sidebar: |-
   ### Transports/Playback:
 
   * Neumann lathe x 2
-  * Reel to reel tape
   * DSD
   * DAT
   * WAV and AIFF
