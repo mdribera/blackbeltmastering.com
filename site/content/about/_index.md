@@ -4,7 +4,7 @@ title: About Black Belt Mastering
 menu:
   main:
     weight: 1
-image: img/derp.jpg
+image: img/studio-portrait.jpg
 blurb: >-
   Owned and operated by Levi Seitz, Black Belt Mastering is a fully equipped
   audio mastering facility that was established in 2009. Our goal is to create a
