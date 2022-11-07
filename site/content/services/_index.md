@@ -13,7 +13,7 @@ colOne: >-
   <p><b>Unattended:</b></p>
 
 
-  <p><span class='large-money'><b>Singles - $150 / EP's and LP's - $90/song</b><p>Includes WAV files for digital distribution and one free hour of revisions if needed.</span></p>
+  <p><span class='large-money'><b>EP's and LP's: $90/song<p>Singles: $150 </b><p>Includes WAV files for digital distribution and one free hour of revisions if needed.</span></p>
 
   </span></p>
 
@@ -47,7 +47,7 @@ colOne: >-
 colTwo: >-
   <h3>Vinyl Mastering</h3>
 
-  <p><b>Master Lacquers: Contact for Pricing</b></p>
+  <p><b>Master Lacquers: <p>Contact for Pricing</b></p>
 
   <p><b>12” / 10" / 7"</b> - Our Neumann lathe is equipped with an advanced 'Pitch18' cutting computer from Switzerland that cuts longer sides with better land use and retains more clarity on longer sides compared to other cutting systems.</p>
 
