@@ -33,17 +33,15 @@ colOne: >-
 
   <p>Additional revision(s): $120/hr (1hr minimum)</p>
 
-  <p>PMCD Master: $100</p>
+  <p>PMCD Master or DDPi: $100</p>
 
   <p>Reference CD: $50</p>
 
   <p>High-Res or ADM(MFiT) Masters: $250</p>
 
-  <p>Rush Service Fee: $250</p>
-
   <br/>
 
-  <p class='small'>Included with each session (attended or unattended) you will receive WAV files of the masters for digital distribution or a DDPi production master used by duplication plants to manufacture CD's. One free hour of revisions is also included with every session if needed.</p>
+  <p class='small'>Included with each session (attended or unattended) you will receive WAV files of the masters for digital distribution. One free hour of revisions is also included with every session if needed.</p>
 
   <p class='small'><span class='asterisk'>*</span>Instrumental/Radio/Alt edits must be supplied at the time of the initial mastering session. Alt mixes received after mastering is complete are billed at the full unattended rate</p>
 colTwo: >-
