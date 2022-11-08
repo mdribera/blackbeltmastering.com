@@ -10,18 +10,24 @@ paypal:
 colOne: >-
   <h3>Digital Mastering</h3>
 
-  <p><b>Unattended:</b></p>
 
-
-  <p><span class='large-money'><b>EP's and LP's: $90/song<p>Singles: $150 </b><p>Includes WAV files for digital distribution and one free hour of revisions if needed.</span></p>
+  <p><span class='large-money'><b>EP's and LP's: $100/song<p>Singles: $150 </b>
 
   </span></p>
 
   <br/>
 
-  <p><b>Attended:</b></p>
+  <p><b>Unattended:</b></p>
 
-  <p><span class='large-money'><b>LP's - $120/song</b><p>Sit in on the session and be involved in the process. Walk away with everything you need for digital distribution and a physical reference for listening at home.</span></p>
+  <p>Includes WAV files for digital distribution and one free hour of revisions if needed.</span></p>
+
+  </span></p>
+
+  <br/>
+
+  <p><b>Attended (LP's Only):</b></p>
+
+  <p>Sit in on the session and be involved in the process. Walk away with everything you need for digital distribution and a physical reference for listening at home.</span></p>
 
   <br/>
 
