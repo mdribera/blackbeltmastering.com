@@ -9,7 +9,7 @@ colOne:
   faq:
     - question: What do I get once we’re done?
       answer: Once the mastering process is complete, and payment has been made, you
-        will receive fully sequenced WAV masters of your songs. Other formats,
+        will receive fully sequenced WAV masters of your songs. Other formats
         such as a DDP image, Apple Digital Masters (MFiT) or 24 bit vinyl ready
         masters can be provided on request.
     - question: What information do you need before starting my session?
