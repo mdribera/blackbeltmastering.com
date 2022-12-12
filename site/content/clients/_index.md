@@ -55,9 +55,9 @@ clients:
     secondLine: Impossible Weight
     attribution: Vinyl Mastering
   - artist: Metallica
-    image: img/03_Metallica.jpg
-    attribution: Vinyl Mastering
-    secondLine: Live At Donnington '97
+    secondLine: Master of Puppets
+    image: img/met-mop.jpg
+    attribution: Vinyl Remastering 2022
   - image: img/syml2.jpg
     artist: SYML
     secondLine: DIM
