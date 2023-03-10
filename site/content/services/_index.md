@@ -11,9 +11,6 @@ colOne: >-
   <h3>Digital Mastering</h3>
 
 
-  <p><span class='large-money'><b>EP's and LP's: $100/song<p>Singles: $150 </b>
-
-  </span></p>
 
   <br/>
 
@@ -33,17 +30,13 @@ colOne: >-
 
   <h4>OTHER MASTERING SERVICES</h4>
 
-  <p>Instrumental/Radio/Alt Edits: $45/song<span class='asterisk'>*</span></p>
+  <p>Instrumental/Radio/Alt Edits<span class='asterisk'>*</span></p>
 
-  <p>24bit Vinyl Pre-Master files: $250</p>
+  <p>24bit Vinyl Pre-Master files</p>
 
-  <p>Additional revision(s): $120/hr (1hr minimum)</p>
+  <p>PMCD Master or DDPi</p>
 
-  <p>PMCD Master or DDPi: $100</p>
-
-  <p>Reference CD: $50</p>
-
-  <p>High-Res or ADM(MFiT) Masters: $250</p>
+  <p>High-Res or ADM(MFiT) Masters</p>
 
   <br/>
 
@@ -53,7 +46,11 @@ colOne: >-
 colTwo: >-
   <h3>Vinyl Mastering</h3>
 
-  <p><b>Master Lacquers: <p>Contact for Pricing</b></p>
+
+  <br/>
+
+
+  <p><b>Master Lacquers</p>
 
   <p><b>12” / 10" / 7"</b> - Our Neumann lathe is equipped with an advanced 'Pitch18' cutting computer from Switzerland that cuts longer sides with better land use and retains more clarity on longer sides compared to other cutting systems.</p>
 
