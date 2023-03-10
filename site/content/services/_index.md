@@ -50,7 +50,7 @@ colTwo: >-
   <br/>
 
 
-  <p><b>Master Lacquers</p>
+  <p><b>Master Lacquers:</p>
 
   <p><b>12” / 10" / 7"</b> - Our Neumann lathe is equipped with an advanced 'Pitch18' cutting computer from Switzerland that cuts longer sides with better land use and retains more clarity on longer sides compared to other cutting systems.</p>
 
