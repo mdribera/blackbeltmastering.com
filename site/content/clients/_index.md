@@ -15,9 +15,9 @@ clients:
     secondLine: Return of the Frog Queen
     attribution: Digital + Vinyl Mastering
   - artist: Metallica
-    secondLine: Tribute To Chris Cornell
-    image: img/metallica.jpg
-    attribution: Vinyl Mastering
+    secondLine: Master of Puppets
+    image: img/met-mop.jpg
+    attribution: Vinyl Remastering 2022
   - artist: Beyoncé
     secondLine: Renaissance
     image: img/beyonce-renaissance.jpeg
@@ -38,26 +38,26 @@ clients:
     secondLine: Songs of Lament
     image: img/naomi-wachira.jpg
     attribution: Digital Mastering
-  - artist: Green Day
-    image: img/04_Green_Day.png
+  - artist: Kali Uchis
+    secondLine: Red Moon In Venus
     attribution: Vinyl Mastering
-    secondLine: Live At The Whisky
-  - artist: Diplo
-    image: img/06_Diplo.jpg
-    secondLine: Europa!
+    image: img/kali-uchis.jpg
+  - artist: Metallica
+    secondLine: Tribute To Chris Cornell
+    image: img/metallica.jpg
     attribution: Vinyl Mastering
   - artist: Sloucher
     image: img/13_sloucher-be-true.jpg
     secondLine: Be True
     attribution: Digital + Vinyl Mastering
+  - artist: Diplo
+    image: img/06_Diplo.jpg
+    secondLine: Europa!
+    attribution: Vinyl Mastering
   - artist: Deep Sea Diver
     image: img/10_deep-sea-diver.jpg
     secondLine: Impossible Weight
     attribution: Vinyl Mastering
-  - artist: Metallica
-    secondLine: Master of Puppets
-    image: img/met-mop.jpg
-    attribution: Vinyl Remastering 2022
   - image: img/syml2.jpg
     artist: SYML
     secondLine: DIM
@@ -134,10 +134,10 @@ clients:
     image: img/32_jenn-champion-m-.jpg
     secondLine: Single Rider
     attribution: Digital Mastering
-  - artist: MxPx
-    image: img/05_MXPX.jpg
-    secondLine: MxPx
+  - artist: Green Day
+    image: img/04_Green_Day.png
     attribution: Vinyl Mastering
+    secondLine: Live At The Whisky
   - artist: Alice Cooper
     secondLine: School's Out
     image: img/alice-cooper.jpg
