@@ -1,7 +1,7 @@
 <div class="row">
 	<p class="col-xs-12 text-center">{{ .Params.blurb | markdownify }}</p>
 
-	<div class="col-xs-12 col-sm-6 col-md-8 row studio-gallery">
+	<div class="col-xs-12 col-sm-8 row studio-gallery">
 		{{ range $index, $image := .Params.images }}
 		<a class="col-xs-6" href="{{ $image.image }}" data-lightbox="gallery" data-title="{{ $image.caption }}">
 			<img src="{{ $image.image }}" />
@@ -9,7 +9,7 @@
 		{{ end }}
 	</div>
 
-	<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="col-xs-12 col-sm-4">
 		{{ .Params.sidebar | markdownify }}
 	</div>
 </div>
