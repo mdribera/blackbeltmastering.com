@@ -73,10 +73,10 @@ p {
 .page-wrapper > div {
   overflow: auto;
   overflow-x: hidden;
-  margin-bottom: 150px;
+  margin-bottom: 50px;
 
 	@include sm() {
-		margin-bottom: 100px;
+		margin-bottom: 50px;
 	}
 }
 
