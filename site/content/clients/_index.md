@@ -111,8 +111,8 @@ clients:
     secondLine: Wilderness
     attribution: Digital Mastering
   - artist: Pearl Jam
-    image: img/36_pearl-jam-easystreet.jpg
-    secondLine: Live At Easy Street
+    secondLine: Yield -  (25th Anniversary Edition)
+    image: img/yield.jpg
     attribution: Vinyl Mastering
   - artist: Demi Lovato
     secondLine: I <3 ME
