@@ -18,18 +18,18 @@ clients:
     artist: H.E.R - Foo Fighters
     secondLine: The Glass 7"
     attribution: Vinyl Mastering
-  - artist: Beyoncé
-    secondLine: Renaissance
-    image: img/beyonce-renaissance.jpeg
-    attribution: Vinyl Mastering
-  - artist: SYML
-    image: img/04_SYML.jpeg
-    secondLine: In My Body
-    attribution: Digital Mastering
   - artist: Nirvana
     secondLine: Nevermind
     attribution: Vinyl Remastering 2022
     image: img/nirvana-nevermind.jpg
+  - artist: SYML
+    image: img/04_SYML.jpeg
+    secondLine: In My Body
+    attribution: Digital Mastering
+  - artist: Beyoncé
+    secondLine: Renaissance
+    image: img/beyonce-renaissance.jpeg
+    attribution: Vinyl Mastering
   - artist: Olivia Rodrigo
     secondLine: Sour
     image: img/sour.jpg
