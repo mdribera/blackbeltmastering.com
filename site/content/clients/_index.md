@@ -14,10 +14,10 @@ clients:
     image: img/01_Jeremy_Enigk_ROTFQ.jpg
     secondLine: Return of the Frog Queen
     attribution: Digital + Vinyl Mastering
-  - artist: Metallica
-    secondLine: Master of Puppets
-    image: img/met-mop.jpg
-    attribution: Vinyl Remastering 2022
+  - image: img/ff-her-the-glass.jpg
+    artist: H.E.R - Foo Fighters
+    secondLine: The Glass 7"
+    attribution: Vinyl Mastering
   - artist: Beyoncé
     secondLine: Renaissance
     image: img/beyonce-renaissance.jpeg
@@ -150,4 +150,16 @@ clients:
     secondLine: Heart Shaped World
     attribution: Vinyl Remastering 2022
     image: img/chris-isaak-heart-shaped-world.jpg
+  - artist: Metallica
+    secondLine: Master of Puppets
+    image: img/met-mop.jpg
+    attribution: Vinyl Remastering 2022
+  - image: img/44_august-burns-red.jpg
+    artist: August Burns Red
+    secondLine: Phantom Anthem
+    attribution: Vinyl Mastering
+  - image: img/11_jonathan-davis.jpg
+    artist: Jonathan Davis
+    secondLine: Black Labyrinth
+    attribution: Vinyl Mastering
 ---
