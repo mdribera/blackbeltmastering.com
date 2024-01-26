@@ -10,10 +10,10 @@ clients:
     image: img/02_Joker_OST.jpg
     secondLine: OST
     attribution: Vinyl Mastering
-  - artist: Jeremy Enigk
-    image: img/01_Jeremy_Enigk_ROTFQ.jpg
-    secondLine: Return of the Frog Queen
-    attribution: Digital + Vinyl Mastering
+  - artist: Sunny Day Real Estate
+    secondLine: Novum Vetus
+    attribution: Digital Mastering
+    image: img/sdre_novum-vetus.jpg
   - image: img/ff-her-the-glass.jpg
     artist: H.E.R - Foo Fighters
     secondLine: The Glass 7"
@@ -22,10 +22,10 @@ clients:
     secondLine: Nevermind
     attribution: Vinyl Remastering 2022
     image: img/nirvana-nevermind.jpg
-  - artist: Sunny Day Real Estate
-    secondLine: Novum Vetus
+  - artist: Jeremy Enigk
+    image: img/01_Jeremy_Enigk_ROTFQ.jpg
+    secondLine: Return of the Frog Queen
     attribution: Digital + Vinyl Mastering
-    image: img/sdre_novum-vetus.jpg
   - artist: Beyoncé
     secondLine: Renaissance
     image: img/beyonce-renaissance.jpeg
