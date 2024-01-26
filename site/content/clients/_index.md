@@ -22,10 +22,10 @@ clients:
     secondLine: Nevermind
     attribution: Vinyl Remastering 2022
     image: img/nirvana-nevermind.jpg
-  - artist: SYML
-    image: img/04_SYML.jpeg
-    secondLine: In My Body
-    attribution: Digital Mastering
+  - artist: Sunny Day Real Estate
+    secondLine: Novum Vetus
+    attribution: Digital + Vinyl Mastering
+    image: img/sdre_novum-vetus.jpg
   - artist: Beyoncé
     secondLine: Renaissance
     image: img/beyonce-renaissance.jpeg
@@ -58,9 +58,9 @@ clients:
     image: img/10_deep-sea-diver.jpg
     secondLine: Impossible Weight
     attribution: Vinyl Mastering
-  - image: img/syml2.jpg
-    artist: SYML
-    secondLine: DIM
+  - artist: SYML
+    image: img/04_SYML.jpeg
+    secondLine: In My Body
     attribution: Digital Mastering
   - artist: Buddy Guy & Junior Wells
     image: img/08_Buddy_Guy.jpg
