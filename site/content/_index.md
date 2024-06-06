@@ -18,7 +18,9 @@ welcome:
   - img/10_mandy-moore.jpeg
   - img/sour.jpg
   - img/metallica.jpg
-  - img/beyonce-renaissance.jpeg
   - img/chris-isaak-heart-shaped-world.jpg
   - img/beck-colors.jpg
+  - img/tangk.jpg
+  - img/the_mandrake_project.jpg
+  - img/ace-frehley.jpg
 ---
