@@ -162,4 +162,8 @@ clients:
     artist: Jonathan Davis
     secondLine: Black Labyrinth
     attribution: Vinyl Mastering
+  - artist: Ace Frehley
+    secondLine: 10,000 Volts
+    image: img/ace-frehley.jpg
+    attribution: Vinyl Mastering
 ---
