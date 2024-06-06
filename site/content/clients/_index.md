@@ -73,7 +73,7 @@ clients:
   - artist: IDLES
     secondLine: TANGK
     image: img/tangk.jpg
-    attribution: VINYL MASTERING
+    attribution: Vinyl Mastering
   - artist: Quavo & Takeoff
     secondLine: Only Built For Infinity Links
     image: img/infinity-links.jpg
