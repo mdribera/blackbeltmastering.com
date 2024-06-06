@@ -162,4 +162,28 @@ clients:
     artist: Jonathan Davis
     secondLine: Black Labyrinth
     attribution: Vinyl Mastering
+  - artist: Ace Frehley
+    secondLine: 10,000 Volts
+    image: img/ace-frehley.jpg
+    attribution: Vinyl Mastering
+  - artist: Beyoncé
+    secondLine: Cowboy Carter
+    attribution: Vinyl Mastering
+    image: img/cowboy-carter.jpg
+  - artist: Fletcher
+    secondLine: In Search Of The Antidote
+    image: img/fletcher.jpg
+    attribution: Vinyl Mastering
+  - artist: Bruce Dickinson
+    secondLine: The Mandrake Project
+    image: img/the_mandrake_project.jpg
+    attribution: Vinyl Mastering
+  - artist: IDLES
+    secondLine: TANGK
+    image: img/tangk.jpg
+    attribution: VINYL MASTERING
+  - artist: Quavo & Takeoff
+    secondLine: Only Built For Infinity Links
+    image: img/infinity-links.jpg
+    attribution: Vinyl Mastering
 ---
