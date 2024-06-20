@@ -14,14 +14,14 @@ clients:
     secondLine: Fortnite x Metallica
     attribution: Vinyl Mastering
     image: img/fortnitexmetallica-vinyl.jpg
-  - image: img/ff-her-the-glass.jpg
-    artist: H.E.R - Foo Fighters
-    secondLine: The Glass 7"
-    attribution: Vinyl Mastering
   - artist: Nirvana
     secondLine: Nevermind
     attribution: Vinyl Remastering 2022
     image: img/nirvana-nevermind.jpg
+  - image: img/ff-her-the-glass.jpg
+    artist: H.E.R - Foo Fighters
+    secondLine: The Glass 7"
+    attribution: Vinyl Mastering
   - artist: Sunny Day Real Estate
     secondLine: Diary - Live at LBS
     attribution: Digital Mastering
