@@ -23,4 +23,5 @@ welcome:
   - img/tangk.jpg
   - img/the_mandrake_project.jpg
   - img/ace-frehley.jpg
+  - img/fortnitexmetallica-vinyl.jpg
 ---
