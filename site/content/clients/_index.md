@@ -42,10 +42,10 @@ clients:
     secondLine: Red Moon In Venus
     attribution: Vinyl Mastering
     image: img/kali-uchis.jpg
-  - artist: Metallica
-    secondLine: Tribute To Chris Cornell
-    image: img/metallica.jpg
-    attribution: Vinyl Mastering
+  - artist: Linkin Park
+    secondLine: Hybrid Theory
+    attribution: Vinyl Remastering 2024
+    image: img/hybrid-theory.jpg
   - artist: Sloucher
     image: img/13_sloucher-be-true.jpg
     secondLine: Be True
@@ -62,13 +62,13 @@ clients:
     secondLine: Cowboy Carter
     attribution: Vinyl Mastering
     image: img/cowboy-carter.jpg
+  - artist: Father John Misty
+    secondLine: Greatish Hits
+    attribution: Vinyl Mastering
+    image: img/fatherjohnmisty-greatishhits-3600px.jpg
   - artist: Fletcher
     secondLine: In Search Of The Antidote
     image: img/fletcher.jpg
-    attribution: Vinyl Mastering
-  - artist: Bruce Dickinson
-    secondLine: The Mandrake Project
-    image: img/the_mandrake_project.jpg
     attribution: Vinyl Mastering
   - artist: IDLES
     secondLine: TANGK
@@ -186,4 +186,16 @@ clients:
     artist: Jonathan Davis
     secondLine: Black Labyrinth
     attribution: Vinyl Mastering
+  - artist: Bruce Dickinson
+    secondLine: The Mandrake Project
+    image: img/the_mandrake_project.jpg
+    attribution: Vinyl Mastering
+  - artist: Metallica
+    secondLine: Tribute to Chris Cornell
+    attribution: Vinyl Mastering
+    image: img/metallica.jpg
+  - image: img/greenday-ai.jpg
+    artist: Green Day
+    secondLine: American Idiot
+    attribution: Vinyl Remastering 2024
 ---
