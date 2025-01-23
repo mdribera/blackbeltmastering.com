@@ -21,16 +21,18 @@ sidebar: |-
   ### Transports/Playback:
 
   * Neumann lathe x 2
-  * DSD
+  * CD
   * DAT
   * WAV and AIFF
 
-  ### Analog processing:
+  ### Analog:
 
-  * Squarewave Industries
+  * Squarewave Ind.
   * Langevin
-  * Manley
-  * Foote Control Systems
   * Maselec
   * Cranesong
+  * D﻿unlavy
+  * P﻿ass Labs
+  * U﻿REI
+  * N﻿eumann
 ---
