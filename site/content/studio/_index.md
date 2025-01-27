@@ -28,7 +28,7 @@ sidebar: |-
   ### Analog:
 
   * Squarewave Ind.
-  * Langevin
+  * Langevin - Manley
   * Maselec
   * Cranesong
   * D﻿unlavy
