@@ -34,10 +34,10 @@ clients:
     secondLine: Sour
     image: img/sour.jpg
     attribution: Vinyl Mastering
-  - artist: Naomi Wachira
-    secondLine: Songs of Lament
-    image: img/naomi-wachira.jpg
-    attribution: Digital Mastering
+  - artist: Soul Coughing
+    secondLine: Ruby Vroom
+    image: img/rubyvroom.jpg
+    attribution: Digital + Vinyl Mastering
   - artist: Kali Uchis
     secondLine: Red Moon In Venus
     attribution: Vinyl Mastering
@@ -79,8 +79,8 @@ clients:
     image: img/infinity-links.jpg
     attribution: Vinyl Mastering
   - artist: Deep Sea Diver
-    image: img/10_deep-sea-diver.jpg
-    secondLine: Impossible Weight
+    image: img/dsd_bh.jpg
+    secondLine: Billboard Heart
     attribution: Vinyl Mastering
   - artist: SYML
     image: img/04_SYML.jpeg
@@ -106,9 +106,9 @@ clients:
     image: img/10_mandy-moore.jpeg
     secondLine: How Could This Be Christmas?
     attribution: Vinyl Mastering
-  - artist: Stereo Creeps
-    image: img/09_Stereo_Creeps.jpg
-    secondLine: Suck
+  - artist: Clipping
+    image: img/clipping.jpg
+    secondLine: Dead Channel Sky
     attribution: Digital + Vinyl Mastering
   - artist: Game Of Thrones
     image: img/06_Game_Of_Thrones_Season_8.jpg
