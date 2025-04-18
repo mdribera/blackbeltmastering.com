@@ -30,6 +30,18 @@ clients:
     secondLine: Renaissance
     image: img/beyonce-renaissance.jpeg
     attribution: Vinyl Mastering
+  - artist: George Harrison
+    secondLine: Be Here Now
+    attribution: Vinyl Mastering
+    image: img/beherenowcover.jpg
+  - artist: Chet Baker
+    secondLine: Almost Blue + 2
+    attribution: Digital + Vinyl Mastering
+    image: img/chet-baker.jpg
+  - artist: Kesha
+    secondLine: Joyride
+    attribution: Vinyl Mastering
+    image: img/kesha-joyride.jpg
   - artist: Olivia Rodrigo
     secondLine: Sour
     image: img/sour.jpg
