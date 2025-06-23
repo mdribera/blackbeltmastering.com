@@ -16,5 +16,5 @@ blurb: >-
   We're proud to offer both digital mastering and lacquer cutting for vinyl. Cutting is performed on one of our restored Neumann lathes. We've cut thousands of LP's and have the experience to help you get the best sounding vinyl record possible.
 
 
-  Don't hesitate to reach out...we enjoy projects of all sizes and look forward to working on a record with you!
+  We enjoy projects of all sizes and look forward to working on a record with you!
 ---
