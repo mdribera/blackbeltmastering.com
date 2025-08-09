@@ -38,10 +38,10 @@ clients:
     secondLine: Almost Blue + 2
     attribution: Digital + Vinyl Mastering
     image: img/chet-baker.jpg
-  - artist: Kesha
-    secondLine: Joyride
+  - artist: Ringo Starr
+    secondLine: Live At Soundstage
     attribution: Vinyl Mastering
-    image: img/kesha-joyride.jpg
+    image: img/ringo_starr_live_at_soundstage_album_cover.jpg
   - artist: Olivia Rodrigo
     secondLine: Sour
     image: img/sour.jpg
@@ -154,10 +154,10 @@ clients:
     secondLine: I <3 ME
     image: img/demi-lovato.jpg
     attribution: Vinyl Mastering
-  - artist: Shannon Stephens
-    image: img/18_shannon-stephens.jpg
-    secondLine: Pull It Together
-    attribution: Digital Mastering
+  - artist: Kesha
+    secondLine: Joyride
+    attribution: Vinyl Mastering
+    image: img/kesha-joyride.jpg
   - artist: Beck
     secondLine: Colors
     image: img/beck-colors.jpg
