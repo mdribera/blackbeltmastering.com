@@ -46,10 +46,10 @@ clients:
     secondLine: Sour
     image: img/sour.jpg
     attribution: Vinyl Mastering
-  - artist: Soul Coughing
-    secondLine: Ruby Vroom
-    image: img/rubyvroom.jpg
-    attribution: Digital + Vinyl Mastering
+  - artist: Billie Eilish
+    secondLine: Hit Me Hard And Soft - Anniversary Edition
+    attribution: Vinyl Mastering
+    image: img/billie_eilish_-_hit_me_hard_and_soft.png
   - artist: Kali Uchis
     secondLine: Red Moon In Venus
     attribution: Vinyl Mastering
@@ -58,9 +58,9 @@ clients:
     secondLine: Hybrid Theory
     attribution: Vinyl Remastering 2024
     image: img/hybrid-theory.jpg
-  - artist: Sloucher
-    image: img/13_sloucher-be-true.jpg
-    secondLine: Be True
+  - artist: Soul Coughing
+    secondLine: Ruby Vroom
+    image: img/rubyvroom.jpg
     attribution: Digital + Vinyl Mastering
   - artist: Diplo
     image: img/06_Diplo.jpg
@@ -130,10 +130,10 @@ clients:
     image: img/12_copeland.jpg
     secondLine: Blushing
     attribution: Vinyl Mastering
-  - artist: Wanz and Warren G
-    image: img/12_wanz-warren-g.jpg
-    secondLine: "To: Nate Dogg"
-    attribution: Digital Mastering
+  - artist: Sloucher
+    image: img/13_sloucher-be-true.jpg
+    secondLine: Be True
+    attribution: Digital + Vinyl Mastering
   - artist: Super Bomberman R
     image: img/14_super-bomberman-r.jpg
     secondLine: OST
