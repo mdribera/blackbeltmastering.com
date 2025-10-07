@@ -78,10 +78,10 @@ clients:
     secondLine: Greatish Hits
     attribution: Vinyl Mastering
     image: img/fatherjohnmisty-greatishhits-3600px.jpg
-  - artist: Fletcher
-    secondLine: In Search Of The Antidote
-    image: img/fletcher.jpg
-    attribution: Vinyl Mastering
+  - artist: Prince
+    secondLine: Purple Rain
+    attribution: Vinyl Remastering 2025
+    image: img/purple-rain.png
   - artist: IDLES
     secondLine: TANGK
     image: img/tangk.jpg
