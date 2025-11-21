@@ -62,10 +62,10 @@ clients:
     secondLine: Ruby Vroom
     image: img/rubyvroom.jpg
     attribution: Digital + Vinyl Mastering
-  - artist: Diplo
-    image: img/06_Diplo.jpg
-    secondLine: Europa!
+  - artist: The Smashing Pumpkins
+    secondLine: Machina - Aranea Alba Edition
     attribution: Vinyl Mastering
+    image: img/smashing_pumpkins_-_machina_aranea_alba_editio.jpg
   - artist: Ace Frehley
     secondLine: 10,000 Volts
     image: img/ace-frehley.jpg
@@ -210,4 +210,16 @@ clients:
     artist: Green Day
     secondLine: American Idiot
     attribution: Vinyl Remastering 2024
+  - artist: Diplo
+    image: img/06_Diplo.jpg
+    secondLine: Europa!
+    attribution: Vinyl Mastering
+  - artist: A Perfect Circle
+    secondLine: Mer De Noms
+    attribution: Vinyl Remastering 2025
+    image: img/apc_dss.png
+  - artist: Hole
+    secondLine: Celebrity Skin
+    attribution: Vinyl Mastering
+    image: img/hole-cs.jpg
 ---
