@@ -217,9 +217,9 @@ clients:
   - artist: A Perfect Circle
     secondLine: Mer De Noms
     attribution: Vinyl Remastering 2025
-    image: img/apc_dss.png
+    image: img/screenshot-2025-11-21-154351.png
   - artist: Hole
     secondLine: Celebrity Skin
     attribution: Vinyl Mastering
-    image: img/hole-cs.jpg
+    image: img/screenshot-2025-11-21-155116.png
 ---
