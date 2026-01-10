@@ -78,6 +78,18 @@ clients:
     secondLine: Greatish Hits
     attribution: Vinyl Mastering
     image: img/fatherjohnmisty-greatishhits-3600px.jpg
+  - artist: Beck
+    secondLine: Morning Phase
+    attribution: Vinyl Remastering 2025
+    image: img/beck-cover.jpg
+  - artist: Catch Me If You Can
+    secondLine: OST
+    image: img/catch_me_if_you_can_soundtrack.jpg
+    attribution: Vinyl Mastering
+  - artist: Elliott Smith
+    secondLine: Pretty (Ugly Before) 7"
+    attribution: Vinyl Mastering
+    image: img/es-ugly-before.png
   - artist: Prince
     secondLine: Purple Rain
     attribution: Vinyl Remastering 2025
@@ -217,7 +229,7 @@ clients:
   - artist: A Perfect Circle
     secondLine: Mer De Noms
     attribution: Vinyl Remastering 2025
-    image: img/screenshot-2025-11-21-154351.png
+    image: img/perfect-circle-cover.jpg
   - artist: Hole
     secondLine: Celebrity Skin
     attribution: Vinyl Mastering
