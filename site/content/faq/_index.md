@@ -60,14 +60,15 @@ colTwo:
   faq:
     - question: What vinyl services do you offer?
       answer: >-
-        **Reference Acetates** — A one-off evaluation cut you take home and play
-        to discover how your record will sound on vinyl.
+        **Vinyl Pre-Masters** — If we did the initial digital mastering of your
+        record and you're choosing to have lacquers cut elsewhere, we can
+        provide the 24-bit side A and B digital files and required timing log.
 
 
-        **Master Lacquers** — These are individual 'Side A' and 'Side B' master lacquer discs that are cut and shipped to the pressing plant for mass production of vinyl records.
+        **Reference Acetates** — A one-off evaluation cut you take home and play to discover how your record will sound on vinyl.
 
 
-        **Digital Cutting Masters** — If we did the initial mastering for your record and you're choosing to have lacquers cut elsewhere, we can provide the 24-bit side A and B digital files and required timing log.
+        **Master Lacquers** **(Vinyl Mastering)** — These are physical 'Side A' and 'Side B' master lacquer discs that are cut and shipped to the pressing plant for mass production of vinyl records.
     - question: How long can each side of my record be?
       answer: >-
         While CDs can hold over 70 minutes of material, this is essentially
@@ -147,7 +148,7 @@ colTwo:
         Best — 3 minutes per side
 
         Sorta OK — 5 minutes per side
-    - question: What is a Matrix number, how do I get one?
+    - question: What is a Catalog/Matrix number, how do I get one?
       answer: Both myself and the pressing plant will ask you to provide what’s known
         as a matrix number. The matrix (sometimes also called the ‘catalog
         number’) is unique identifier that you create or your record label
@@ -212,13 +213,5 @@ colTwo:
         * If you ever have questions about what is and is not a problem with test pressings you should consult with the person who cut the lacquers (me). I can often help you understand what is or isn't an actual issue of concern. I can also help be a liaison between the pressing plant and plating facility to help discover where an issue is stemming from, ultimately a new side may need to be cut to best resolve a problem.
 
         * Be wise, plan ahead and give yourself extra time to account for potential setbacks. The process of making vinyl records is not quick and all stages leading up to the pressing happen in real time with little to no automation. Great sounding vinyl is worth the extra time!
-    - question: Can you cut lacquers at half-speed or cut audio in to the lock groove
-        at the end of a record?
-      answer: Yes, we can do both. Our Neumann lathe is equipped with the most
-        advanced direct drive motor that can spin at 16 2/3RPM which allows more
-        detail to be cut in to the grooves and yields a more pronounced stereo
-        image and articulate treble with full bass. Cutting an endless loop of
-        audio into the lock groove of a record is also possible, the duration of
-        the loop should be exactly 1.8 seconds at 33 1/3 RPM and 1.33 at 45 RPM.
 hidden: false
 ---
