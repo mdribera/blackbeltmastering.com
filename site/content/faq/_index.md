@@ -20,13 +20,6 @@ colOne:
         This is a great way for me to get a feel for the sound you are after. I
         also find it helpful to include a few brief notes if there are specific
         song transition requests. Ultimately, a quick phone call is best.
-    - question: Can I attend the mastering session?
-      answer: Yes, I encourage attended sessions for full LP's only. Sessions start at
-        10am. Attended sessions allow you to be involved and understand the
-        mastering process from beginning to end and provides you access to ask
-        questions and hear immediate before and after mastering samples of your
-        record. As these sessions tend to take more time, the cost is more than
-        unattended.
     - question: How do I send you my mixes?
       answer: You can send mixes by clicking this link for
         [wetransfer.com](https://www.wetransfer.com/) or by forwarding a link to
