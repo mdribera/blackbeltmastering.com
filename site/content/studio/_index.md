@@ -24,6 +24,7 @@ sidebar: |-
 
   * Neumann Lathe x 2
   * 'Super Scully' Lathe
+  * S﻿tuder A80 1/4" - 1/2" 
   * CD
   * DAT
   * WAV and AIFF
