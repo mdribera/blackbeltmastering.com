@@ -11,16 +11,19 @@ images:
   - image: img/4.jpg
   - image: img/img_2773.jpg
   - image: img/img_2775.jpg
+  - image: img/img_6976.jpg
+  - image: img/img_7974.jpg
 blurb: Our main studio is fully equipped for digital mastering with our custom
   hybrid analog/digital transfer desk. Vinyl mastering is performed on our
-  modified Neumann AM32b/Pitch13/Technics SP-02 lathe. Our secondary room hosts
-  a pristine early serial number Neumann VMS-66 lathe for cutting lacquers...it
-  sounds amazing! Finally, our lounge has all the amenities for a comfortable
-  hang.
+  modified Neumann AM32b/Pitch13/Technics SP-02 lathe o﻿r our custom built
+  'Super Scully'. A second mastering room hosts a pristine early serial number
+  Neumann VMS-66 lathe for cutting lacquers...it sounds amazing! Finally, our
+  lounge has all the amenities for a comfortable hang.
 sidebar: |-
   ### Transports/Playback:
 
-  * Neumann lathe x 2
+  * Neumann Lathe x 2
+  * 'Super Scully' Lathe
   * CD
   * DAT
   * WAV and AIFF
