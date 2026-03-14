@@ -18,7 +18,8 @@ blurb: Our main studio is fully equipped for digital mastering with our custom
   modified Neumann AM32b/Pitch13/Technics SP-02 lathe o﻿r our custom built
   'Super Scully'. A second mastering room hosts a pristine early serial number
   Neumann VMS-66 lathe for cutting lacquers...it sounds amazing! Finally, our
-  lounge has all the amenities for a comfortable hang.
+  lounge has all the amenities for a comfortable hang including an assortment of
+  new and vintage pinball machines!
 sidebar: |-
   ### Transports/Playback:
 
