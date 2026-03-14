@@ -7,12 +7,12 @@ menu:
 images:
   - image: img/first.jpg
   - image: img/2.jpg
-  - image: img/img_6976.jpg
-  - image: img/img_7992.jpg
   - image: img/3.jpg
   - image: img/4.jpg
   - image: img/img_2773.jpg
   - image: img/img_2775.jpg
+  - image: img/img_6976.jpg
+  - image: img/img_7992.jpg
 blurb: Our main studio is fully equipped for digital mastering with our custom
   hybrid analog/digital transfer desk. Vinyl mastering is performed on our
   modified Neumann AM32b/Pitch13/Technics SP-02 lathe o﻿r our custom built
