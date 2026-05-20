@@ -222,10 +222,6 @@ clients:
     artist: Green Day
     secondLine: American Idiot
     attribution: Vinyl Remastering 2024
-  - artist: Diplo
-    image: img/06_Diplo.jpg
-    secondLine: Europa!
-    attribution: Vinyl Mastering
   - artist: A Perfect Circle
     secondLine: Mer De Noms
     attribution: Vinyl Remastering 2025
@@ -234,4 +230,8 @@ clients:
     secondLine: Celebrity Skin
     attribution: Vinyl Mastering
     image: img/screenshot-2025-11-21-155116.png
+  - artist: Tank and the Bangas
+    secondLine: The Last Balloon
+    image: img/tankandthebangas_cover.jpg
+    attribution: Vinyl Mastering
 ---
