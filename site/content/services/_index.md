@@ -13,13 +13,11 @@ colOne: >-
 
   <br/>
 
-  <p><!--StartFragment-->
+  <p><b> Mixes are evaluated and refined to have consistent level, tone and dynamics from start to finish. Our process may incorporate both digital and analog processing to ready your final master for digital or streaming release. </b>
 
 
-  **Mixes are evaluated and refined to have consistent level, tone and dynamics from start to finish. Our process may incorporate both digital and analog processing to ready your final master for digital or streaming release.**
+  </span></p>
 
-
-  <!--EndFragment--></span></p>
 
   <br/>
 
