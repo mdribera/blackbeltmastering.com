@@ -9,8 +9,6 @@ welcome:
   - img/04_Pearl_Jam_Lets_Play_Two.jpg
   - img/04_SYML.jpeg
   - img/05_MXPX.jpg
-  - img/06_Diplo.jpg
-  - img/06_Game_Of_Thrones_Season_8.jpg
   - img/06_The_Fire_Theft.jpg
   - img/07_August_Burns_Red_Guardians.jpg
   - img/08_Buddy_Guy.jpg
@@ -23,4 +21,9 @@ welcome:
   - img/tangk.jpg
   - img/the_mandrake_project.jpg
   - img/ace-frehley.jpg
+  - img/fortnitexmetallica-vinyl.jpg
+  - img/apc_dss.png
+  - img/purple-rain.png
+  - img/gracie_abrams_-_daughter_from_hell.png
+  - img/beck-cover.jpg
 ---
