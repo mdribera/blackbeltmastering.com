@@ -234,4 +234,8 @@ clients:
     secondLine: The Last Balloon
     image: img/tankandthebangas_cover.jpg
     attribution: Vinyl Mastering
+  - artist: Gracie Abrams
+    secondLine: Daughter From Hell
+    image: img/gracie_abrams_-_daughter_from_hell.png
+    attribution: Vinyl Mastering
 ---
