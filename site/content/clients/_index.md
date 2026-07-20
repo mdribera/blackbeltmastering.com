@@ -66,9 +66,9 @@ clients:
     secondLine: Machina - Aranea Alba Edition
     attribution: Vinyl Mastering
     image: img/smashing_pumpkins_-_machina_aranea_alba_editio.jpg
-  - artist: Ace Frehley
-    secondLine: 10,000 Volts
-    image: img/ace-frehley.jpg
+  - artist: Gracie Abrams
+    secondLine: Daughter From Hell
+    image: img/gracie_abrams_-_daughter_from_hell.png
     attribution: Vinyl Mastering
   - artist: Beyoncé
     secondLine: Cowboy Carter
