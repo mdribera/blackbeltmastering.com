@@ -34,10 +34,10 @@ clients:
     secondLine: Be Here Now
     attribution: Vinyl Mastering
     image: img/beherenowcover.jpg
-  - artist: Chet Baker
-    secondLine: Almost Blue + 2
-    attribution: Digital + Vinyl Mastering
-    image: img/chet-baker.jpg
+  - artist: Debby Friday
+    secondLine: The Starrr Of The Queen Of Life
+    image: img/debby-friday.jpg
+    attribution: Digital Mastering
   - artist: Ringo Starr
     secondLine: Live At Soundstage
     attribution: Vinyl Mastering
@@ -234,8 +234,4 @@ clients:
     secondLine: The Last Balloon
     image: img/tankandthebangas_cover.jpg
     attribution: Vinyl Mastering
-  - artist: Debby Friday
-    secondLine: The Starrr Of The Queen Of Life
-    image: img/debby-friday.jpg
-    attribution: Digital Mastering
 ---
