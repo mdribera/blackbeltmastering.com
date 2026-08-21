@@ -234,4 +234,8 @@ clients:
     secondLine: The Last Balloon
     image: img/tankandthebangas_cover.jpg
     attribution: Vinyl Mastering
+  - artist: Debby Friday
+    secondLine: The Starrr Of The Queen Of Life
+    image: img/debby-friday.jpg
+    attribution: Digital Mastering
 ---
