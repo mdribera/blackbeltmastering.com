@@ -6,34 +6,58 @@ menu:
   main:
     weight: 2
 clients:
-  - artist: Joker
-    image: img/02_Joker_OST.jpg
-    secondLine: OST
+  - artist: Beck
+    secondLine: Ride Lonesome
     attribution: Vinyl Mastering
+    image: img/beck_ridelonesome_packshot_compact_tay-copy.png
   - artist: Metallica
     secondLine: Fortnite x Metallica
     attribution: Vinyl Mastering
     image: img/fortnitexmetallica-vinyl.jpg
+  - artist: Beyoncé
+    secondLine: Cowboy Carter
+    attribution: Vinyl Mastering
+    image: img/cowboy-carter.jpg
+  - artist: Weezer
+    secondLine: Pinkerton
+    attribution: Vinyl Remastering 2026
+    image: img/pinkerton.jpg
+  - artist: Olivia Rodrigo
+    secondLine: Sour
+    image: img/sour.jpg
+    attribution: Vinyl Mastering
   - artist: Nirvana
     secondLine: Nevermind
     attribution: Vinyl Remastering 2022
     image: img/nirvana-nevermind.jpg
-  - image: img/ff-her-the-glass.jpg
-    artist: H.E.R - Foo Fighters
-    secondLine: The Glass 7"
+  - artist: Gracie Abrams
+    secondLine: Daughter From Hell
+    image: img/gracie_abrams_-_daughter_from_hell.png
     attribution: Vinyl Mastering
-  - artist: Sunny Day Real Estate
-    secondLine: Diary - Live at LBS
-    attribution: Digital Mastering
-    image: img/sdre-live-at-lbs.jpg
-  - artist: Beyoncé
-    secondLine: Renaissance
-    image: img/beyonce-renaissance.jpeg
+  - artist: Billie Eilish
+    secondLine: Hit Me Hard And Soft - Anniversary Edition
     attribution: Vinyl Mastering
+    image: img/billie_eilish_-_hit_me_hard_and_soft.png
   - artist: George Harrison
     secondLine: Be Here Now
     attribution: Vinyl Mastering
     image: img/beherenowcover.jpg
+  - image: img/ff-her-the-glass.jpg
+    artist: H.E.R - Foo Fighters
+    secondLine: The Glass 7"
+    attribution: Vinyl Mastering
+  - artist: Beyoncé
+    secondLine: Renaissance
+    image: img/beyonce-renaissance.jpeg
+    attribution: Vinyl Mastering
+  - artist: Prince
+    secondLine: Purple Rain
+    attribution: Vinyl Remastering 2025
+    image: img/purple-rain.png
+  - artist: Sunny Day Real Estate
+    secondLine: Diary - Live at LBS
+    attribution: Digital Mastering
+    image: img/sdre-live-at-lbs.jpg
   - artist: Debby Friday
     secondLine: The Starrr Of The Queen Of Life
     image: img/debby-friday.jpg
@@ -42,14 +66,6 @@ clients:
     secondLine: Live At Soundstage
     attribution: Vinyl Mastering
     image: img/ringo_starr_live_at_soundstage_album_cover.jpg
-  - artist: Olivia Rodrigo
-    secondLine: Sour
-    image: img/sour.jpg
-    attribution: Vinyl Mastering
-  - artist: Billie Eilish
-    secondLine: Hit Me Hard And Soft - Anniversary Edition
-    attribution: Vinyl Mastering
-    image: img/billie_eilish_-_hit_me_hard_and_soft.png
   - artist: Kali Uchis
     secondLine: Red Moon In Venus
     attribution: Vinyl Mastering
@@ -66,14 +82,6 @@ clients:
     secondLine: Machina - Aranea Alba Edition
     attribution: Vinyl Mastering
     image: img/smashing_pumpkins_-_machina_aranea_alba_editio.jpg
-  - artist: Gracie Abrams
-    secondLine: Daughter From Hell
-    image: img/gracie_abrams_-_daughter_from_hell.png
-    attribution: Vinyl Mastering
-  - artist: Beyoncé
-    secondLine: Cowboy Carter
-    attribution: Vinyl Mastering
-    image: img/cowboy-carter.jpg
   - artist: Father John Misty
     secondLine: Greatish Hits
     attribution: Vinyl Mastering
@@ -90,10 +98,6 @@ clients:
     secondLine: Pretty (Ugly Before) 7"
     attribution: Vinyl Mastering
     image: img/es-ugly-before.png
-  - artist: Prince
-    secondLine: Purple Rain
-    attribution: Vinyl Remastering 2025
-    image: img/purple-rain.png
   - artist: IDLES
     secondLine: TANGK
     image: img/tangk.jpg
@@ -233,5 +237,13 @@ clients:
   - artist: Tank and the Bangas
     secondLine: The Last Balloon
     image: img/tankandthebangas_cover.jpg
+    attribution: Vinyl Mastering
+  - artist: Kacey Musgraves
+    secondLine: Golden Hour
+    image: img/kcmussdss.png
+    attribution: Vinyl Remastering 2026
+  - artist: Joker
+    image: img/02_Joker_OST.jpg
+    secondLine: OST
     attribution: Vinyl Mastering
 ---
